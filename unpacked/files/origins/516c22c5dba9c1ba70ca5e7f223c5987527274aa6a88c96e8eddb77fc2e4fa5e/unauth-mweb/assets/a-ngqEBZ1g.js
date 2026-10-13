@@ -1,0 +1,1 @@
+import{To as a}from"./octane-shell-shared-BoZRL7hg.js";var e=(e,s)=>a({flush:"sync",initialValue:s,key:e,namespace:"canonical-dil-stream-revision"});export{e as t};

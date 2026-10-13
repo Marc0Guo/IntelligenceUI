@@ -1,0 +1,1 @@
+var t=t=>{let e=t.trim();return e.length>0&&(e.length<=1e5||[...e].length<=1e5)},e=t=>{try{let e=new URL(t);return"https:"===e.protocol&&!e.username&&!e.password&&!e.port&&!e.search&&!e.hash&&("chatgpt.com"===e.hostname||"chatgpt-staging.com"===e.hostname)&&/^\/s\/[\w-]+\/?$/.test(e.pathname)}catch{return!1}};export{e as n,t};

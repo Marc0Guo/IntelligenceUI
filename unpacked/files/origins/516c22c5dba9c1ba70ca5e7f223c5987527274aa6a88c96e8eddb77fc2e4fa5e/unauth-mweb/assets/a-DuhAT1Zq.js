@@ -1,0 +1,1 @@
+import{a,c as s,i as e,l,o as r,r as o,s as t,t as m,u as n}from"./a-DIoxl6mq.js";var p={default:m,blue:m,cyan:o,lime:a,magenta:r,green:e,yellow:n,pink:s,orange:t,purple:l,black:m};export{p as t};

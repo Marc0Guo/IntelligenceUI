@@ -1,0 +1,1 @@
+function e(e){try{let t=new URL(e);return t.protocol!==`https:`||t.username||t.password?void 0:(t.hash=``,t.href)}catch{return}}function t(t,n){if(n.includes(t))return!0;let r=e(t);return r!==void 0&&n.some(t=>e(t)===r)}export{t};

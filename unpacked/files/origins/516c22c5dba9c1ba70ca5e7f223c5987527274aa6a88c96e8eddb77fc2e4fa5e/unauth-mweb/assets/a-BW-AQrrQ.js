@@ -1,0 +1,1 @@
+var e=Symbol.for(`lw.partial-island.retirement`),t=(t,n)=>{let r=t.ownerDocument[e]??=new WeakMap;return r.set(t,n),()=>{r.get(t)===n&&r.delete(t)}},n=t=>{let n=t.ownerDocument[e],r=n?.get(t);n?.delete(t),r?.()};export{n,t};

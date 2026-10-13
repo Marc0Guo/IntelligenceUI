@@ -1,0 +1,1 @@
+import{t as e}from"./carousel-dnJwc29x.js";var t=t=>e(t,{itemSelector:t.hasAttribute(`data-assistant-nav-list-carousel`)?`:scope > li > [data-assistant-nav-list-card]`:`:scope > [data-user-image-frame]`}).dispose;export{t as mountPartialIsland};

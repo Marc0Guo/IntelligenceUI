@@ -1,0 +1,1 @@
+var r=((r,e=new URL(import.meta.url).searchParams.get("worker_version"))=>(r=new URL(r,import.meta.url),e&&r.searchParams.set("worker_version",e),r.href))("./app-CQ66NkrO.css");export{r as t};

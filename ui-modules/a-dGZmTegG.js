@@ -1,0 +1,1 @@
+import{f as e}from"./octane-signals-engine-CtPRJ0LT.js";var t=(t={})=>{let n=e({scopeKey:`conversation-interactive`});return{scope:n,state$:n.signal$(`view`,{pending:!1,error:!1,feedback:``,statusLabel:``,...t})}},n=(e,t)=>{let n=new Map;return e.map(e=>{let r=t(e),i=n.get(r)??0;return n.set(r,i+1),{key:JSON.stringify([r,i]),value:e}})};export{n,t};

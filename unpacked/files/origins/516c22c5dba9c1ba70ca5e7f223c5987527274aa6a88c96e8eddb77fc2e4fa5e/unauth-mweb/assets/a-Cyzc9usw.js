@@ -1,0 +1,1 @@
+var e={status:`idle`},t=()=>()=>{},n=()=>e,r=(t,n)=>{let r=e;return{subscribe:n,getSnapshot:()=>{let e=t();return(r.status!==e.status||r.traversal!==e.traversal||r.pendingConversationId!==e.pendingConversationId||r.pendingLanding!==e.pendingLanding)&&(r=e),r}}};export{n,t as r,r as t};

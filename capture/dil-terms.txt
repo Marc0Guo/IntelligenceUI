@@ -1,0 +1,4212 @@
+
+## assistant-canonical-dil-v2-D3Mxms_M.js bytes 3654333
+SNAKE
+CANONICAL_DIL_V2_COMPONENTS
+VALUE_INPUT
+activate_image_generation
+active_card_id
+arrival_airport_code
+artist_upcoming_events_widget
+banner_image
+banner_image_is_loading
+business_gallery_widget_shown
+button_label
+button_name
+calculator_abcd2_score_for_transient_ischemic_attack
+calculator_apache_ii_score
+calculator_apgar_score
+calculator_asa_physical_status_classification
+calculator_bilitool
+calculator_bisap_score_for_pancreatitis
+calculator_bishop_score_for_cervical_ripening
+calculator_canadian_ct_head_rule
+calculator_cha2ds2_vasc_score_for_atrial_fibrillation_stroke_risk
+calculator_child_pugh_score_for_cirrhosis
+calculator_corrected_adjusted_age_of_preterm_infants
+calculator_curb_65_score_for_pneumonia
+calculator_duke_treadmill_score
+calculator_four_t_score_for_heparin_induced_thrombocytopenia
+calculator_glasgow_blatchford_score_for_upper_gi_bleeding
+calculator_glasgow_coma_scale_gcs
+calculator_grace_score_for_acute_coronary_syndrome
+calculator_has_bled_score_for_major_bleeding_risk
+calculator_heart_score_for_major_cardiac_events
+calculator_hunt_and_hess_score_for_subarachnoid_hemorrhage
+calculator_ich_score
+calculator_isth_dic_score
+calculator_modified_rankin_scale
+calculator_nexus_cervical_spine_rule
+calculator_nih_stroke_scale_nihss
+calculator_ottawa_ankle_rule
+calculator_ottawa_knee_rule
+calculator_padua_prediction_score_for_venous_thromboembolism_risk
+calculator_pecarn_pediatric_head_injury_rule
+calculator_pediatric_early_warning_score_pews
+calculator_perc_rule_for_pulmonary_embolism
+calculator_pneumonia_severity_index_psi_port
+calculator_qsofa_score
+calculator_ranson_criteria_for_pancreatitis
+calculator_revised_cardiac_risk_index_rcri
+calculator_revised_geneva_score_for_pulmonary_embolism
+calculator_rochester_criteria_for_febrile_infants
+calculator_rockall_score_for_upper_gi_bleeding
+calculator_rox_index_for_high_flow_nasal_cannula
+calculator_sirs_criteria
+calculator_sofa_score
+calculator_stop_bang_score_for_obstructive_sleep_apnea
+calculator_surgical_apgar_score
+calculator_wells_score_for_deep_vein_thrombosis
+calculator_wells_score_for_pulmonary_embolism
+calculator_westley_croup_severity_score
+calculator_years_algorithm_for_pulmonary_embolism
+card_count
+card_face
+card_id
+card_instance_id
+card_instance_ids
+card_number
+card_order
+card_position
+card_size
+cardiac_arrest
+cardiac_failure
+care_provider_results_widget
+care_provider_sidebar_widget
+categories_map
+chart_categories
+chart_points
+chatgpt_learning_flashcards_card_flipped
+chatgpt_learning_flashcards_card_viewed
+chatgpt_learning_flashcards_error_presented
+chatgpt_learning_flashcards_presented
+chatgpt_learning_flashcards_view_started
+chatgpt_widget_action
+code_block
+component_key
+component_name
+component_unavailable
+confirmation_layout
+copy_quiz_label
+copy_quiz_text
+create_quiz_label
+create_quiz_prompt
+credit_score_widget
+cta_button_v2
+cta_button_v3
+currency_code
+currency_converter
+dark_image_url
+departure_airport_code
+desktop_map_height
+destination_code
+dil_v2
+display_button_label
+display_cards
+edit_card_label
+edit_flashcard
+elicitation_metadata
+elicitation_type
+emphasize_first_paragraph
+entity_reviews_widget_shown
+entity_thumbnail_list_widget_shown
+error_code
+example_server_action_button_click
+fact_cards
+fair_button_style
+flashcards_generation
+flashcards_open
+follow_up_card_group
+follow_up_choice_card
+formatted_cumulative_spend
+formatted_current_month_spend
+formatted_net_worth
+formatted_previous_month_spend
+formatted_time
+fv0XaG_DilRenderer
+fv0XaG_DilResponseRoot
+has_image
+history_chart
+homework_helper_v2_widget
+hourly_chart
+hourly_chart_day_start
+hourly_chart_domain_all_f
+hourly_chart_labels
+hourly_chart_now_start
+hourly_chart_ticks
+hourly_chart_today_key
+hourly_table_date_label
+image_alt
+image_card
+image_content_url
+image_fit
+image_gen_follow_up_dil_buttons
+image_grid
+image_is_loading
+image_key
+image_prompt
+image_url
+image_width
+input_based_examples
+input_pointer
+input_trim_pattern
+input_type
+instant_suggestions_widget
+instant_suggestions_widget_clicked
+instant_suggestions_widget_shown
+is_shared_quiz
+is_streaming
+jobs_widget
+jobs_widget_apply_clicked
+jobs_widget_impression
+large_card
+launch_ecosystem_widget
+learning_audio_label_card
+learning_flashcards
+learning_flashcards_restart
+learning_flashcards_review_missed
+learning_flashcards_save_progress
+learning_flashcards_shuffle
+learning_quiz
+learning_quiz_answer
+learning_quiz_restart
+learning_speak_card
+learning_vocab_card
+lightbox_images
+link_card
+link_card_widget_clicked
+link_widget_clicked
+location_in_map
+location_widget
+lowest_map
+map_url
+math_graph
+math_graph_description
+math_graph_question
+math_graph_series_label
+math_graph_tab_label
+math_graph_title
+mattress_onboarding_card_click
+medium_card
+mobile_map_height
+more_flashcards
+more_flashcards_label
+more_flashcards_query
+native_map
+native_map_unavailable_label
+native_quiz_state
+news_article_widget
+news_article_widget_carousel
+news_article_widget_carousel_item_clicked
+news_article_widget_clicked
+next_quiz
+next_quiz_label
+next_quiz_query
+no_chart_data
+offer_voice_conversation_widget
+onboarding_selection_card
+open_coding_citation
+open_file_citation
+open_image_generation_composer
+open_image_lightbox
+open_shop_image_sidebar
+open_video_lightbox
+origin_code
+owner_create_quiz_label
+personality_quiz
+personality_quiz_save_progress
+personality_quiz_share_options
+plant_image_alt
+play_audio_label
+price_formatted
+provider_video_id
+quiz_generation
+quiz_me
+quiz_question
+quiz_tab_label
+request_user_input
+reservation_time_pills_widget_shown
+reservation_widget
+restaurant_menu_widget_shown
+result_paragraphs
+retry_audio_label
+run_rate_chart_data
+scorecard_first_side
+scorecard_second_side
+scorecards_by_side
+search_citation
+search_image
+share_button_variant
+show_image
+show_new_pill_and_widget_ui
+show_source_image
+shuffle_primary_card
+shuffle_secondary_card
+sidebar_fact_table
+sidebar_fact_table_widget_shown
+small_card_a
+small_card_b
+stock_asset_type
+stock_market
+stock_question
+stock_state
+stock_tab_label
+stock_ticker
+stop_audio_label
+suggest_automation_widget_clicked
+text_format
+thumbnail_image
+time_format
+timeline_groups
+unit_converter
+video_carousel_hovered
+video_carousel_impression
+video_carousel_lightbox_opened
+video_carousel_outbound_clicked
+video_id
+video_label
+video_metadata
+video_source_data
+view_flashcards
+voice_card
+weather_dil
+weather_question
+weather_ready
+weather_tab_label
+widget_action_target
+widget_action_value
+widget_affordance
+widget_dil_enabled
+widget_name
+widget_state
+widget_voice_session_id
+ATTR
+data-canonical-dil-styles
+data-codex-window-type
+data-color
+data-d-clip
+data-d-component
+data-d-direction
+data-d-has-border
+data-d-has-height
+data-d-highlight
+data-d-image-loading
+data-d-inline
+data-d-inline-reveal
+data-d-justify
+data-d-list-item-content
+data-d-marker
+data-d-scrollable
+data-d-stream-chart-reveal
+data-d-stream-inline
+data-d-stream-media
+data-d-stream-pending
+data-d-stream-word
+data-d-streaming-color
+data-d-streaming-height
+data-d-streaming-reveal
+data-d-streaming-table-motion
+data-d-text-decoration
+data-d-text-flow
+data-dimension
+data-loaded
+data-pill
+data-state
+data-theme
+data-variant
+PHRASE
+
+						}
+					}
+				}
+			})
+		}, /* @__PURE__ */ __dil.jsx(
+
+						}
+					}
+				})
+			}, /* @__PURE__ */ __dil.jsx(
+
+						}
+					}
+				});
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+
+						}, data.text)
+					}, /* @__PURE__ */ __dil.jsx(
+
+					}
+				}
+			})
+		}, /* @__PURE__ */ __dil.jsx(
+
+					}
+				}
+			})
+		}, state.retry_label), /* @__PURE__ */ __dil.jsx(
+
+					}) : /* @__PURE__ */ __dil.jsx(
+
+					}), /* @__PURE__ */ __dil.jsx(
+
+					}, data.translation), data.pronunciation ? /* @__PURE__ */ __dil.jsx(
+
+				})
+			}) : /* @__PURE__ */ __dil.jsx(
+
+				}))) : /* @__PURE__ */ __dil.jsx(
+
+				}))) : null),
+				prompt: recall ? /* @__PURE__ */ __dil.jsx(
+
+				}))) : null, isDebugAllowed ? /* @__PURE__ */ __dil.jsx(
+
+				}, directions) : null, selectedId !== null ? /* @__PURE__ */ __dil.jsx(
+
+				}, labels.recallInstruction), /* @__PURE__ */ __dil.jsx(
+
+				}, option.alt)
+			}) : /* @__PURE__ */ __dil.jsx(
+
+			}
+		}) : null, /* @__PURE__ */ __dil.jsx(
+
+			}
+		}), /* @__PURE__ */ __dil.jsx(
+
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+
+			}
+		}, badge)))), /* @__PURE__ */ __dil.jsx(
+
+			}
+		}, state.turn_on_label)) : /* @__PURE__ */ __dil.jsx(
+
+			}
+		}, tab.label), /* @__PURE__ */ __dil.jsx(
+
+			} : void 0
+		}, /* @__PURE__ */ __dil.jsx(
+
+			})
+		}) : /* @__PURE__ */ __dil.jsx(
+
+			})
+		}))), /* @__PURE__ */ __dil.jsx(
+
+			})
+		}), /* @__PURE__ */ __dil.jsx(
+
+			}) : /* @__PURE__ */ __dil.jsx(
+
+			}) : null), /* @__PURE__ */ __dil.jsx(
+
+			}) : state.taskImageUrls?.[task.id] != null ? /* @__PURE__ */ __dil.jsx(
+
+			}) : wrong ? /* @__PURE__ */ __dil.jsx(
+
+			}))
+		}) : /* @__PURE__ */ __dil.jsx(
+
+			}))
+		}), /* @__PURE__ */ __dil.jsx(
+
+			})) : /* @__PURE__ */ __dil.jsx(
+
+			})) : null
+		}), isMobile ? /* @__PURE__ */ __dil.jsx(
+
+			})))) : /* @__PURE__ */ __dil.jsx(
+
+			})))) : active ? /* @__PURE__ */ __dil.jsx(
+
+			})))))), index < visible.length - 1 && /* @__PURE__ */ __dil.jsx(
+
+			}))),
+			utilities: /* @__PURE__ */ __dil.jsx(
+
+			}))), /* @__PURE__ */ __dil.jsx(
+
+			}))), item.native_map && /* @__PURE__ */ __dil.jsx(
+
+			})), /* @__PURE__ */ __dil.jsx(
+
+			})), state.generation_complete && /* @__PURE__ */ __dil.jsx(
+
+			}), /* @__PURE__ */ __dil.jsx(
+
+			},
+			ariaHidden: true
+		})), /* @__PURE__ */ __dil.jsx(
+
+			},
+			ariaHidden: true
+		}), state.steps == null ? /* @__PURE__ */ __dil.jsx(
+
+			},
+			clip: true
+		}, /* @__PURE__ */ __dil.jsx(
+
+			},
+			clip: true
+		}, item.image ? /* @__PURE__ */ __dil.jsx(
+
+			},
+			clip: true
+		}, state.image ? /* @__PURE__ */ __dil.jsx(
+
+			},
+			gap: 2.5
+		}, /* @__PURE__ */ __dil.jsx(
+
+			},
+			minHeight: 46
+		}, /* @__PURE__ */ __dil.jsx(
+
+			},
+			radius: 28
+		}, /* @__PURE__ */ __dil.jsx(
+
+			}, /* @__PURE__ */ __dil.jsx(
+
+			}, String.fromCharCode(65 + index))), /* @__PURE__ */ __dil.jsx(
+
+			}, content), index < visible.length - 1 && /* @__PURE__ */ __dil.jsx(
+
+			}, detail.title), /* @__PURE__ */ __dil.jsx(
+
+			}, details)), /* @__PURE__ */ __dil.jsx(
+
+			}, entity.price_str) : null, hasPrice && hasOpenStatus ? /* @__PURE__ */ __dil.jsx(
+
+			}, hasPrice ? /* @__PURE__ */ __dil.jsx(
+
+			}, hasRating ? /* @__PURE__ */ __dil.jsx(
+
+			}, index > 0 ? /* @__PURE__ */ __dil.jsx(
+
+			}, item.footer))), item.sources.length > 0 && /* @__PURE__ */ __dil.jsx(
+
+			}, item.rank))),
+			/* @__PURE__ */ __dil.jsx(
+
+			}, item.title), /* @__PURE__ */ __dil.jsx(
+
+			}, itemDetail) : null), item.thumbnail_url ? /* @__PURE__ */ __dil.jsx(
+
+			}, itemSourceLabel)), itemTitle ? /* @__PURE__ */ __dil.jsx(
+
+			}, itemTitle) : null, itemDetail || item.thumbnail_url ? /* @__PURE__ */ __dil.jsx(
+
+			}, labels.success)), /* @__PURE__ */ __dil.jsx(
+
+			}, message) : null, speech.error ? /* @__PURE__ */ __dil.jsx(
+
+			}, name)), hasRating || categories.length > 0 ? /* @__PURE__ */ __dil.jsx(
+
+			}, option.alt))));
+			return /* @__PURE__ */ __dil.jsx(
+
+			}, option.feedback)))))));
+		})))), /* @__PURE__ */ __dil.jsx(
+
+			}, option.label)), selected && status && /* @__PURE__ */ __dil.jsx(
+
+			}, option.label), result && option.feedback ? /* @__PURE__ */ __dil.jsx(
+
+			}, provider.initials))
+		}) : /* @__PURE__ */ __dil.jsx(
+
+			}, q.prompt), /* @__PURE__ */ __dil.jsx(
+
+			}, question.hint))),
+			navigation: /* @__PURE__ */ __dil.jsx(
+
+			}, review.attribution));
+		})), matching.length > limit && /* @__PURE__ */ __dil.jsx(
+
+			}, review.rating)), /* @__PURE__ */ __dil.jsx(
+
+			}, review.source)), /* @__PURE__ */ __dil.jsx(
+
+			}, selected ? /* @__PURE__ */ __dil.jsx(Check, { color: 
+
+			}, selection.error) : selection.hint ? /* @__PURE__ */ __dil.jsx(
+
+			}, state.action_label ?? task.label))))) : /* @__PURE__ */ __dil.jsx(
+
+			}, state.labels.separator_dot), /* @__PURE__ */ __dil.jsx(
+
+			}, task.description) : null), /* @__PURE__ */ __dil.jsx(
+
+			}, temperatureLabel(temperature, unit)), day && /* @__PURE__ */ __dil.jsx(
+
+			}, venue.name))), /* @__PURE__ */ __dil.jsx(
+
+			};
+		});
+		return /* @__PURE__ */ __dil.jsx(
+
+		].map((value) => /* @__PURE__ */ __dil.jsx(
+
+		];
+		return /* @__PURE__ */ __dil.jsx(
+
+		} }), /* @__PURE__ */ __dil.jsx(
+
+		}) : /* @__PURE__ */ __dil.jsx(
+
+		}) : /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, /* @__PURE__ */ __dil.jsx(
+
+		}) : month ? /* @__PURE__ */ __dil.jsx(
+
+		}) : null))), /* @__PURE__ */ __dil.jsx(
+
+		}) : null, /* @__PURE__ */ __dil.jsx(
+
+		}) : state.emoji ? /* @__PURE__ */ __dil.jsx(
+
+		})) : /* @__PURE__ */ __dil.jsx(
+
+		})) : label ? /* @__PURE__ */ __dil.jsx(
+
+		})) : null), result.quote ? /* @__PURE__ */ __dil.jsx(
+
+		})) : null, hasImages ? /* @__PURE__ */ __dil.jsx(
+
+		}))) : /* @__PURE__ */ __dil.jsx(
+
+		})))) : /* @__PURE__ */ __dil.jsx(
+
+		})))) : desktop ? /* @__PURE__ */ __dil.jsx(
+
+		}))))))) : /* @__PURE__ */ __dil.jsx(
+
+		})))))))) : /* @__PURE__ */ __dil.jsx(
+
+		})))))), /* @__PURE__ */ __dil.jsx(
+
+		}))))));
+		if (!state.items.length) return null;
+		return /* @__PURE__ */ __dil.jsx(
+
+		}))))), /* @__PURE__ */ __dil.jsx(
+
+		}))))), /* @__PURE__ */ __dil.jsx(SvgRect, {
+			x: 0,
+			y: 12,
+			width: 
+
+		})))));
+	}
+
+//#endregion
+return AsyncImageGroup;
+})();
+return __dilDefaultExport;
+})()
+
+		})))), !isVoice && expandedCount > collapsedCount ? /* @__PURE__ */ __dil.jsx(
+
+		})))), /* @__PURE__ */ __dil.jsx(
+
+		})))), failed || waitExpired ? /* @__PURE__ */ __dil.jsx(
+
+		}))), /* @__PURE__ */ __dil.jsx(
+
+		}))), speech.error ? /* @__PURE__ */ __dil.jsx(
+
+		})));
+	}
+	function QuizLoading({ label }) {
+		const isDesktop = DIL.useBreakpoint(
+
+		})), !expanded && item.has_detail_content && /* @__PURE__ */ __dil.jsx(
+
+		})), !isLibrary && !isLast && /* @__PURE__ */ __dil.jsx(
+
+		})), /* @__PURE__ */ __dil.jsx(
+
+		})), /* @__PURE__ */ __dil.jsx(SvgMask, {
+			id: barMaskId,
+			maskUnits: 
+
+		})), selectedHelp && /* @__PURE__ */ __dil.jsx(
+
+		})), team.seed != null && /* @__PURE__ */ __dil.jsx(
+
+		}));
+		return item.logo_url ? /* @__PURE__ */ __dil.jsx(
+
+		}));
+		return null;
+	}
+	function eventData(state, task) {
+		return {
+			widget_name: 
+
+		}));
+		return src ? /* @__PURE__ */ __dil.jsx(
+
+		}));
+	}
+	function CreateQuiz({ state }) {
+		return /* @__PURE__ */ __dil.jsx(
+
+		}));
+	}
+
+//#endregion
+return FlightSearchForm;
+})();
+return __dilDefaultExport;
+})()
+
+		}), /* @__PURE__ */ __dil.jsx(
+
+		}), /* @__PURE__ */ __dil.jsx(SvgPath, {
+			d: 
+
+		}), /* @__PURE__ */ __dil.jsx(SvgStop, {
+			offset: 
+
+		}), item.feature_label != null && /* @__PURE__ */ __dil.jsx(
+
+		}), state.availability_days.length > 0 ? /* @__PURE__ */ __dil.jsx(
+
+		}).format(new Date(review.created_at)))))), /* @__PURE__ */ __dil.jsx(
+
+		})]))))), /* @__PURE__ */ __dil.jsx(
+
+		}, !wide && /* @__PURE__ */ __dil.jsx(
+
+		}, (total / count).toFixed(1)), /* @__PURE__ */ __dil.jsx(
+
+		}, /* @__PURE__ */ __dil.jsx(
+
+		}, /* @__PURE__ */ __dil.jsx(LinkImpression, {
+			url: item.url,
+			width: 
+
+		}, /* @__PURE__ */ __dil.jsx(ReviewStar, { size: 16 }), /* @__PURE__ */ __dil.jsx(
+
+		}, /* @__PURE__ */ __dil.jsx(Svg, {
+			viewBox: 
+
+		}, /* @__PURE__ */ __dil.jsx(SvgStop, {
+			offset: 
+
+		}, [
+			...[
+				0,
+				1,
+				2
+			].map((index) => /* @__PURE__ */ __dil.jsx(
+
+		}, action.emoji)) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, action.icon ? /* @__PURE__ */ __dil.jsx(
+
+		}, action.label))))))), /* @__PURE__ */ __dil.jsx(
+
+		}, action.label), action.description ? /* @__PURE__ */ __dil.jsx(
+
+		}, activeMode.risk_heading), /* @__PURE__ */ __dil.jsx(
+
+		}, activeMode.score_label), /* @__PURE__ */ __dil.jsx(
+
+		}, activeMode.score_range_label))), /* @__PURE__ */ __dil.jsx(
+
+		}, activeMode.title), /* @__PURE__ */ __dil.jsx(
+
+		}, attribution?.provider_label);
+		const content = /* @__PURE__ */ __dil.jsx(
+
+		}, author), review.owner && /* @__PURE__ */ __dil.jsx(
+
+		}, ball.ball_summary_text), ball.outcome_long && /* @__PURE__ */ __dil.jsx(
+
+		}, ball.outcome_short)), /* @__PURE__ */ __dil.jsx(
+
+		}, candidate.compact_votes_label)))), /* @__PURE__ */ __dil.jsx(
+
+		}, candidate.name), /* @__PURE__ */ __dil.jsx(
+
+		}, candidate.party)), /* @__PURE__ */ __dil.jsx(
+
+		}, candidate.share_label), /* @__PURE__ */ __dil.jsx(
+
+		}, card.has_rating && /* @__PURE__ */ __dil.jsx(
+
+		}, card.metadata_label) : null));
+		return /* @__PURE__ */ __dil.jsx(
+
+		}, card.stars.length > 0 ? /* @__PURE__ */ __dil.jsx(
+
+		}, card.title) : null, card.metadata_label ? /* @__PURE__ */ __dil.jsx(
+
+		}, checkpoint.location))))) : /* @__PURE__ */ __dil.jsx(
+
+		}, checkpoint.subtitle), checkpoint.location && /* @__PURE__ */ __dil.jsx(
+
+		}, checkpoint.title), checkpoint.subtitle && /* @__PURE__ */ __dil.jsx(
+
+		}, column.label)))]), ...rows.map((row) => /* @__PURE__ */ __dil.jsx(
+
+		}, comparison.summary_label))), /* @__PURE__ */ __dil.jsx(
+
+		}, criterion.label), criterion.help && /* @__PURE__ */ __dil.jsx(
+
+		}, data.review_count_label), attribution && (logo ? /* @__PURE__ */ __dil.jsx(
+
+		}, date), /* @__PURE__ */ __dil.jsx(
+
+		}, day.display_label))) : /* @__PURE__ */ __dil.jsx(
+
+		}, day.display_label), /* @__PURE__ */ __dil.jsx(
+
+		}, detail.label), /* @__PURE__ */ __dil.jsx(
+
+		}, detail.value) : /* @__PURE__ */ __dil.jsx(
+
+		}, detail.venue_text) : /* @__PURE__ */ __dil.jsx(
+
+		}, directions)) : null, completion ? /* @__PURE__ */ __dil.jsx(
+
+		}, division.name), /* @__PURE__ */ __dil.jsx(
+
+		}, error), !enabled && /* @__PURE__ */ __dil.jsx(
+
+		}, event.day))), /* @__PURE__ */ __dil.jsx(
+
+		}, event.location && /* @__PURE__ */ __dil.jsx(
+
+		}, event.location) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, event.month), /* @__PURE__ */ __dil.jsx(
+
+		}, event.time)), locations || event.isNew ? /* @__PURE__ */ __dil.jsx(
+
+		}, event.time_label), /* @__PURE__ */ __dil.jsx(
+
+		}, example.form)))))), state.mnemonic && /* @__PURE__ */ __dil.jsx(
+
+		}, failedAction.statusMessage), /* @__PURE__ */ __dil.jsx(
+
+		}, field.label), field.help && /* @__PURE__ */ __dil.jsx(
+
+		}, game.liveLabel)), /* @__PURE__ */ __dil.jsx(
+
+		}, game.opponent_name), /* @__PURE__ */ __dil.jsx(
+
+		}, game.opponent_points ?? 0))), /* @__PURE__ */ __dil.jsx(
+
+		}, game.opponent_points))), game.is_live ? /* @__PURE__ */ __dil.jsx(
+
+		}, game.primaryLabel)), /* @__PURE__ */ __dil.jsx(
+
+		}, game.statline))) : /* @__PURE__ */ __dil.jsx(
+
+		}, game.stats_label), /* @__PURE__ */ __dil.jsx(
+
+		}, game.team_name), /* @__PURE__ */ __dil.jsx(
+
+		}, game.team_points)), /* @__PURE__ */ __dil.jsx(
+
+		}, group.inning_section_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, group.label), /* @__PURE__ */ __dil.jsx(
+
+		}, groupCompleted && /* @__PURE__ */ __dil.jsx(
+
+		}, hasUrl ? /* @__PURE__ */ __dil.jsx(
+
+		}, header.text))))])), /* @__PURE__ */ __dil.jsx(
+
+		}, heading)), ...columns.map((column) => /* @__PURE__ */ __dil.jsx(
+
+		}, headingText(question.prompt))), /* @__PURE__ */ __dil.jsx(
+
+		}, item.airline))), /* @__PURE__ */ __dil.jsx(
+
+		}, item.date_label), /* @__PURE__ */ __dil.jsx(
+
+		}, item.date_string), /* @__PURE__ */ __dil.jsx(
+
+		}, item.detail_tabs[0]?.label) : /* @__PURE__ */ __dil.jsx(
+
+		}, item.final_label), /* @__PURE__ */ __dil.jsx(
+
+		}, item.label)))))), /* @__PURE__ */ __dil.jsx(
+
+		}, item.label), /* @__PURE__ */ __dil.jsx(
+
+		}, item.live_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, item.logo_url && /* @__PURE__ */ __dil.jsx(
+
+		}, item.name), /* @__PURE__ */ __dil.jsx(
+
+		}, item.operating_airlines_label) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, item.price)), /* @__PURE__ */ __dil.jsx(
+
+		}, item.price)), item.booking_urls.length > 1 && /* @__PURE__ */ __dil.jsx(
+
+		}, item.price_caption)), /* @__PURE__ */ __dil.jsx(
+
+		}, item.status_label), /* @__PURE__ */ __dil.jsx(
+
+		}, item.stops))))))), items.length > 3 && /* @__PURE__ */ __dil.jsx(
+
+		}, item.summary)), /* @__PURE__ */ __dil.jsx(
+
+		}, item.thumbnail_url ? /* @__PURE__ */ __dil.jsx(
+
+		}, item.times)), /* @__PURE__ */ __dil.jsx(
+
+		}, item.title ? /* @__PURE__ */ __dil.jsx(
+
+		}, item.title) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, item.title), /* @__PURE__ */ __dil.jsx(
+
+		}, item.title), item.date_label ? /* @__PURE__ */ __dil.jsx(
+
+		}, item.value)) : /* @__PURE__ */ __dil.jsx(
+
+		}, item.venue_text)), /* @__PURE__ */ __dil.jsx(
+
+		}, items.map((item) => /* @__PURE__ */ __dil.jsx(
+
+		}, label))) : null, item.operating_airlines_label ? /* @__PURE__ */ __dil.jsx(
+
+		}, label))) : null, state.booking_urls.length ? /* @__PURE__ */ __dil.jsx(
+
+		}, label))), /* @__PURE__ */ __dil.jsx(
+
+		}, label)), /* @__PURE__ */ __dil.jsx(
+
+		}, label));
+		return /* @__PURE__ */ __dil.jsx(
+
+		}, label), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.cancel)), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.continue))))), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.date_hint), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.departure), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.dishes), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.empty), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.final), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.group_plan), state.image_url && /* @__PURE__ */ __dil.jsx(
+
+		}, labels.heading), state.items[0] && /* @__PURE__ */ __dil.jsx(
+
+		}, labels.innings_break), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.no_accounts_description)), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.prototype)), state.loading ? /* @__PURE__ */ __dil.jsx(
+
+		}, labels.refresh_hint), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.return), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.review_heading ?? labels.review), /* @__PURE__ */ __dil.jsx(
+
+		}, labels.search))), /* @__PURE__ */ __dil.jsx(
+
+		}, labels[key])))), /* @__PURE__ */ __dil.jsx(
+
+		}, left.name)), /* @__PURE__ */ __dil.jsx(
+
+		}, leftName), /* @__PURE__ */ __dil.jsx(
+
+		}, locationLabel) : null, snippet ? /* @__PURE__ */ __dil.jsx(
+
+		}, metadata ? /* @__PURE__ */ __dil.jsx(
+
+		}, metric.label), /* @__PURE__ */ __dil.jsx(
+
+		}, month.display_label), /* @__PURE__ */ __dil.jsx(
+
+		}, month.summary_label))), /* @__PURE__ */ __dil.jsx(
+
+		}, name)), locationLabel ? /* @__PURE__ */ __dil.jsx(
+
+		}, option.label)))), index + 1 < state.options.length && /* @__PURE__ */ __dil.jsx(
+
+		}, option.label), (state.is_creator || vote.submitted) && /* @__PURE__ */ __dil.jsx(
+
+		}, option.location_label)), option.selected && /* @__PURE__ */ __dil.jsx(
+
+		}, pair.terms.map((term, termIndex) => /* @__PURE__ */ __dil.jsx(
+
+		}, paragraph))), /* @__PURE__ */ __dil.jsx(
+
+		}, partySize)) : options.length > 1 ? /* @__PURE__ */ __dil.jsx(
+
+		}, period.label))))), /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, [
+
+		}, play.down_distance_display), play.description != null && /* @__PURE__ */ __dil.jsx(
+
+		}, play.score)), play.down_distance_display != null && /* @__PURE__ */ __dil.jsx(
+
+		}, progressLabels[index])), /* @__PURE__ */ __dil.jsx(
+
+		}, provider.display_name_with_credentials_and_specialty))), /* @__PURE__ */ __dil.jsx(
+
+		}, provider.initials)), /* @__PURE__ */ __dil.jsx(
+
+		}, provider.review_count_label), /* @__PURE__ */ __dil.jsx(
+
+		}, provider.summary), /* @__PURE__ */ __dil.jsx(
+
+		}, question.prompt), /* @__PURE__ */ __dil.jsx(
+
+		}, race.date_label), session?.date_label && /* @__PURE__ */ __dil.jsx(
+
+		}, record(side))));
+		return /* @__PURE__ */ __dil.jsx(
+
+		}, result.correctionLabel) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, result.detail))))), /* @__PURE__ */ __dil.jsx(
+
+		}, result.label)) : null, showCorrection ? /* @__PURE__ */ __dil.jsx(
+
+		}, reviews.dishes.map((dish, index) => /* @__PURE__ */ __dil.jsx(
+
+		}, reviews.rating), /* @__PURE__ */ __dil.jsx(
+
+		}, reviews.snapshot_label), limit > 3 && /* @__PURE__ */ __dil.jsx(
+
+		}, reviews.summary_sources)), reviews.dishes.length > 0 && /* @__PURE__ */ __dil.jsx(
+
+		}, right.name)))), !state.is_final && /* @__PURE__ */ __dil.jsx(
+
+		}, rows.map((row, rowIndex) => /* @__PURE__ */ __dil.jsx(
+
+		}, secondaryLabel)) : /* @__PURE__ */ __dil.jsx(
+
+		}, segment.airline))), details && segment.flight_number && /* @__PURE__ */ __dil.jsx(
+
+		}, segment.airports))))))))), /* @__PURE__ */ __dil.jsx(
+
+		}, segment.dates), /* @__PURE__ */ __dil.jsx(
+
+		}, segment.flight_number), details && segment.airports && /* @__PURE__ */ __dil.jsx(
+
+		}, segment.logo_url && /* @__PURE__ */ __dil.jsx(
+
+		}, segment.times), /* @__PURE__ */ __dil.jsx(
+
+		}, slot.time_label)))))))))))) : /* @__PURE__ */ __dil.jsx(
+
+		}, spelling))))), state.translationPairs.length > 0 && /* @__PURE__ */ __dil.jsx(
+
+		}, stat.both_zero ? /* @__PURE__ */ __dil.jsx(
+
+		}, stat.header), /* @__PURE__ */ __dil.jsx(
+
+		}, stat.label), /* @__PURE__ */ __dil.jsx(
+
+		}, stat.value))))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.after_hours.price_text), /* @__PURE__ */ __dil.jsx(
+
+		}, state.airline_name)), state.operating_airlines_label ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.allow_multiple_votes_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.appointments_heading), /* @__PURE__ */ __dil.jsx(
+
+		}, state.appointments_heading), month && /* @__PURE__ */ __dil.jsx(
+
+		}, state.arrival_time_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.as_of_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.as_of_text)), !wide && /* @__PURE__ */ __dil.jsx(
+
+		}, state.asset_display_name), /* @__PURE__ */ __dil.jsx(
+
+		}, state.attribution_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.automations.slice(0, 5).map((item) => /* @__PURE__ */ __dil.jsx(
+
+		}, state.badge_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.balance_status_note) : null), /* @__PURE__ */ __dil.jsx(
+
+		}, state.button_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.company)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.completion_state.body))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.completion_state.headline), /* @__PURE__ */ __dil.jsx(
+
+		}, state.completion_state.show_completed_items_label))))) : /* @__PURE__ */ __dil.jsx(
+
+		}, state.conditions_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.confirmation_message), /* @__PURE__ */ __dil.jsx(
+
+		}, state.currency_conversion.currency_conversion_note))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.current_price_text), chart && /* @__PURE__ */ __dil.jsx(
+
+		}, state.date.header), /* @__PURE__ */ __dil.jsx(
+
+		}, state.date.name), /* @__PURE__ */ __dil.jsx(
+
+		}, state.date_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.date_string)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.date_string), /* @__PURE__ */ __dil.jsx(
+
+		}, state.departure_airport_code)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.departure_time_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.destination_code)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.emoji)) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, state.empty_checkpoints_message))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.empty_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.empty_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.error_label))) : /* @__PURE__ */ __dil.jsx(
+
+		}, state.error_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.error_message), /* @__PURE__ */ __dil.jsx(
+
+		}, state.error_title)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.error_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.events.map((event) => /* @__PURE__ */ __dil.jsx(
+
+		}, state.fallback_message), /* @__PURE__ */ __dil.jsx(
+
+		}, state.final_label), detail ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.forms.map((form, index) => /* @__PURE__ */ __dil.jsx(
+
+		}, state.geography) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, state.goal_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.heading)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.headline_label), state.summary_title && /* @__PURE__ */ __dil.jsx(
+
+		}, state.initial_unit), /* @__PURE__ */ __dil.jsx(
+
+		}, state.is_live && /* @__PURE__ */ __dil.jsx(
+
+		}, state.is_live ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.labels.budget), /* @__PURE__ */ __dil.jsx(
+
+		}, state.labels.estimated_monthly_income), /* @__PURE__ */ __dil.jsx(
+
+		}, state.labels.next_paycheck), next ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.labels.no_spending_description)))) : month ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.labels.no_spending_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.labels.no_upcoming_paycheck_found)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.labels.recurring_income), /* @__PURE__ */ __dil.jsx(
+
+		}, state.labels.separator_dot) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, state.large_card.status_text)))))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.last_match_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.last_match_opponent_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.league_name), /* @__PURE__ */ __dil.jsx(
+
+		}, state.learn_more_label)))))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.live_label)) : /* @__PURE__ */ __dil.jsx(
+
+		}, state.live_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.loading_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.location_fallback_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.location_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.math_graph_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.merchant) : null), state.description ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.open_status), state.hours_detail ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.operating_airlines_label) : null, /* @__PURE__ */ __dil.jsx(
+
+		}, state.origin_code), /* @__PURE__ */ __dil.jsx(
+
+		}, state.overview_label)) : /* @__PURE__ */ __dil.jsx(
+
+		}, state.plan.details.slice(0, 2).map((detail, index) => /* @__PURE__ */ __dil.jsx(
+
+		}, state.plan.title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.plant_answer_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.preview_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.price ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.price) : null, state.merchant ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.price_label) : null), /* @__PURE__ */ __dil.jsx(
+
+		}, state.prompt), state.show_body && /* @__PURE__ */ __dil.jsx(
+
+		}, state.provider_label)));
+		return /* @__PURE__ */ __dil.jsx(
+
+		}, state.question)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.races.map((option) => /* @__PURE__ */ __dil.jsx(
+
+		}, state.rating_label)))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.rating_label), state.review_count_label != null && /* @__PURE__ */ __dil.jsx(
+
+		}, state.recipe_name)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.recipe_tab_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.related_items_title)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.relative_offset_label))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.retry_query && /* @__PURE__ */ __dil.jsx(
+
+		}, state.review_count_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.scheduled_date_text), /* @__PURE__ */ __dil.jsx(
+
+		}, state.scope_subtitle)), state.groups.length > 1 && /* @__PURE__ */ __dil.jsx(
+
+		}, state.scope_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.score_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.score_range_label))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.season_label))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.season_stats.label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.season_stats_header), /* @__PURE__ */ __dil.jsx(
+
+		}, state.secondary_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.select_all_that_apply_label), /* @__PURE__ */ __dil.jsx(
+
+		}, state.sender_initial)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.spelling.alt.map((spelling, index) => /* @__PURE__ */ __dil.jsx(
+
+		}, state.status_label) : null), /* @__PURE__ */ __dil.jsx(
+
+		}, state.status_label)) : /* @__PURE__ */ __dil.jsx(
+
+		}, state.status_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.stopped_label);
+		if (!control.confirming) return /* @__PURE__ */ __dil.jsx(
+
+		}, state.subtitle)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.subtitle), state.geography ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.subtitle), state.weather_ready && /* @__PURE__ */ __dil.jsx(
+
+		}, state.summary)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.summary_error_label)) : /* @__PURE__ */ __dil.jsx(
+
+		}, state.summary_subtitle)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.summary_trail))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.tabs.map((tab) => /* @__PURE__ */ __dil.jsx(
+
+		}, state.tagline))), /* @__PURE__ */ __dil.jsx(
+
+		}, state.time_label)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.time_string), !detail && wide && /* @__PURE__ */ __dil.jsx(
+
+		}, state.title ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.title) : null, isCompact ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.title) : null, state.questions.length > 0 ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.title)), /* @__PURE__ */ __dil.jsx(
+
+		}, state.title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.title), state.price || state.description ? /* @__PURE__ */ __dil.jsx(
+
+		}, state.title), state.rounds.length > 1 && /* @__PURE__ */ __dil.jsx(
+
+		}, state.title), state.snippet && /* @__PURE__ */ __dil.jsx(
+
+		}, state.title), state.subtitle != null && /* @__PURE__ */ __dil.jsx(
+
+		}, state.track?.album_name), /* @__PURE__ */ __dil.jsx(
+
+		}, state.tracking_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.transactions.length > 3 && /* @__PURE__ */ __dil.jsx(
+
+		}, state.troubleshooting_title), /* @__PURE__ */ __dil.jsx(
+
+		}, state.venue_text)), /* @__PURE__ */ __dil.jsx(
+
+		}, step.description), /* @__PURE__ */ __dil.jsx(
+
+		}, suggestion.prompt_text_first_word), /* @__PURE__ */ __dil.jsx(
+
+		}, summary), /* @__PURE__ */ __dil.jsx(
+
+		}, task.title), expandable ? /* @__PURE__ */ __dil.jsx(
+
+		}, team.name), /* @__PURE__ */ __dil.jsx(
+
+		}, team.rank), /* @__PURE__ */ __dil.jsx(
+
+		}, team.score_label));
+		return /* @__PURE__ */ __dil.jsx(
+
+		}, team.score_label), /* @__PURE__ */ __dil.jsx(
+
+		}, team.seed), /* @__PURE__ */ __dil.jsx(
+
+		}, teamName(side)), /* @__PURE__ */ __dil.jsx(
+
+		}, temperatureLabel(day.low, unit)))))), /* @__PURE__ */ __dil.jsx(
+
+		}, timeLabel), /* @__PURE__ */ __dil.jsx(
+
+		}, title)), /* @__PURE__ */ __dil.jsx(
+
+		}, title), snippet ? /* @__PURE__ */ __dil.jsx(
+
+		}, unit), /* @__PURE__ */ __dil.jsx(
+
+		}, value)));
+	}
+
+//#endregion
+return FollowUp;
+})();
+return __dilDefaultExport;
+})()
+
+		}, value)), /* @__PURE__ */ __dil.jsx(
+
+		}, venue.name), (venue?.city || venue?.state) && /* @__PURE__ */ __dil.jsx(
+
+		}, visibleActions.map((action, index) => /* @__PURE__ */ __dil.jsx(
+
+		};
+		const logViewStarted = DIL.useCallback(() => GenUI.logEvent?.({
+			event_name: 
+
+		}];
+	}
+	function ImageContent(props) {
+		return /* @__PURE__ */ __dil.jsx(
+ && !current.uncertain && /* @__PURE__ */ __dil.jsx(
+ && !question && !loading) return null;
+		return /* @__PURE__ */ __dil.jsx(
+ && /* @__PURE__ */ __dil.jsx(
+ && /* @__PURE__ */ __dil.jsx(FootballOverview, { item }), tab === 
+ && /* @__PURE__ */ __dil.jsx(SportsStats, {
+			stats: item.team_stats,
+			leftSide: 
+ && /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, /* @__PURE__ */ __dil.jsx(
+ && /^https?:\\/\\//i.test(url)) return /* @__PURE__ */ __dil.jsx(
+ && item === completedDots ? /* @__PURE__ */ __dil.jsx(
+ && item === progressDots.length / 2 && /* @__PURE__ */ __dil.jsx(
+ && item.has_started && score, /* @__PURE__ */ __dil.jsx(
+ && plugin.status_label != null ? /* @__PURE__ */ __dil.jsx(
+ && score, /* @__PURE__ */ __dil.jsx(
+ && state.is_live && /* @__PURE__ */ __dil.jsx(
+ && state.partial_notice != null && /* @__PURE__ */ __dil.jsx(
+ && state.report_date_label ? /* @__PURE__ */ __dil.jsx(
+ + item.arrival_time_label), item.price_label ? /* @__PURE__ */ __dil.jsx(
+ + state.items[0].summary), /* @__PURE__ */ __dil.jsx(
+ + statusLabel
+		}, expandedCompletedGroup ? /* @__PURE__ */ __dil.jsx(
+ + task.label : task.label
+			}, /* @__PURE__ */ __dil.jsx(
+ : 1,
+			gap: 3
+		}, /* @__PURE__ */ __dil.jsx(
+ : 1,
+			gap: 3
+		}, header && /* @__PURE__ */ __dil.jsx(
+ : 1,
+			gap: 6
+		}, /* @__PURE__ */ __dil.jsx(
+ : 324
+		}, /* @__PURE__ */ __dil.jsx(
+ : 345
+		}, /* @__PURE__ */ __dil.jsx(
+ : item.url))), /* @__PURE__ */ __dil.jsx(
+ : item.url,
+			size: 16
+		}), /* @__PURE__ */ __dil.jsx(
+ : speaker)), /* @__PURE__ */ __dil.jsx(
+ : state.label)), state.has_net_worth_data && current ? /* @__PURE__ */ __dil.jsx(
+ : state.location))));
+		return /* @__PURE__ */ __dil.jsx(
+ : url))), /* @__PURE__ */ __dil.jsx(
+ : void 0
+			}, /* @__PURE__ */ __dil.jsx(
+ : void 0
+		}, /* @__PURE__ */ __dil.jsx(
+ : void 0
+		}, stat.label), /* @__PURE__ */ __dil.jsx(
+ : void 0
+		}, state.labels.related_transactions)), /* @__PURE__ */ __dil.jsx(
+ : void 0 }, /* @__PURE__ */ __dil.jsx(
+ : void 0);
+						update();
+					}
+				}, /* @__PURE__ */ __dil.jsx(
+ ? /* @__PURE__ */ __dil.jsx(
+ ? /* @__PURE__ */ __dil.jsx(PersonLinkBody, {
+			item,
+			height: 
+ ? /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, /* @__PURE__ */ __dil.jsx(
+ ? /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, question.kind === 
+ ? item.high.label_f : item.high.label_c), /* @__PURE__ */ __dil.jsx(
+ ? item.low.label_f : item.low.label_c)))))), /* @__PURE__ */ __dil.jsx(
+ ? stat.away_value : stat.home_value)), /* @__PURE__ */ __dil.jsx(
+ ? stat.home_pct : stat.away_pct
+		}), /* @__PURE__ */ __dil.jsx(
+ ? stat.home_value : stat.away_value), /* @__PURE__ */ __dil.jsx(
+ ? state.labels.incoming : state.labels.outgoing))), /* @__PURE__ */ __dil.jsx(
+ ? state.precipitation_label : state.temperature_label)))), /* @__PURE__ */ __dil.jsx(
+ ? state.temperature_f : state.temperature_c)), /* @__PURE__ */ __dil.jsx(
+ ? state.weather_dil.initialState : void 0;
+		return /* @__PURE__ */ __dil.jsx(
+ ? state.weather_dil.state : state.weather_dil.type === 
+ ? temperature.a11y_label_f : temperature.a11y_label_c }, /* @__PURE__ */ __dil.jsx(
+ || hidden) ? /* @__PURE__ */ __dil.jsx(
+ || index !== draft.visible_option_count - 1) && /* @__PURE__ */ __dil.jsx(
+ || state.offer_precise_location) && /* @__PURE__ */ __dil.jsx(
+ }
+			})
+		}, /* @__PURE__ */ __dil.jsx(
+ } : {}
+			})
+		}), /* @__PURE__ */ __dil.jsx(
+ })
+		}, /* @__PURE__ */ __dil.jsx(
+ }) : /* @__PURE__ */ __dil.jsx(
+ }) : null)), /* @__PURE__ */ __dil.jsx(
+ }) : null, itemUrl ? /* @__PURE__ */ __dil.jsx(
+ }) {
+		return /* @__PURE__ */ __dil.jsx(
+ }))))), /* @__PURE__ */ __dil.jsx(
+ })))));
+	}
+
+//#endregion
+return RestaurantReviews;
+})();
+return __dilDefaultExport;
+})()
+ })))), /* @__PURE__ */ __dil.jsx(
+ }))), /* @__PURE__ */ __dil.jsx(
+ }))), detail ? detail.venue_text && /* @__PURE__ */ __dil.jsx(
+ })), /* @__PURE__ */ __dil.jsx(
+ }), /* @__PURE__ */ __dil.jsx(
+ }), label));
+	}
+
+//#endregion
+return AskUserFiles;
+})();
+return __dilDefaultExport;
+})()
+ }), state.directions_label))), state.profile_url && /* @__PURE__ */ __dil.jsx(
+ }, /* @__PURE__ */ __dil.jsx(
+ }, ball.outcome_long))))), /* @__PURE__ */ __dil.jsx(
+ }, canShare && !state.shared_post && /* @__PURE__ */ __dil.jsx(
+ }, correctCount))))), /* @__PURE__ */ __dil.jsx(
+ }, detail.value)))), /* @__PURE__ */ __dil.jsx(
+ }, dish))))), /* @__PURE__ */ __dil.jsx(
+ }, event.commentary), index !== item.timeline.length - 1 && /* @__PURE__ */ __dil.jsx(
+ }, event.venue ?? event.title), /* @__PURE__ */ __dil.jsx(
+ }, expanded ? labels.less : labels.more)), /* @__PURE__ */ __dil.jsx(
+ }, form.label), /* @__PURE__ */ __dil.jsx(
+ }, form.value))))), state.examples.length > 0 && /* @__PURE__ */ __dil.jsx(
+ }, group.icon)), /* @__PURE__ */ __dil.jsx(
+ }, headingText(result.name)), /* @__PURE__ */ __dil.jsx(
+ }, hour.description)), /* @__PURE__ */ __dil.jsx(
+ }, hour.label)), /* @__PURE__ */ __dil.jsx(
+ }, item.commentary) : null, item.booking_urls.length ? /* @__PURE__ */ __dil.jsx(
+ }, item.fare_notice), details && item.detail_labels && /* @__PURE__ */ __dil.jsx(
+ }, item.name), item.subtitle && /* @__PURE__ */ __dil.jsx(
+ }, item.price_label) : null), item.commentary ? /* @__PURE__ */ __dil.jsx(
+ }, item.primary_category), /* @__PURE__ */ __dil.jsx(
+ }, item.route, /* @__PURE__ */ __dil.jsx(
+ }, itemTitle) : null, item.metadata_label ? /* @__PURE__ */ __dil.jsx(
+ }, labels.multiple), /* @__PURE__ */ __dil.jsx(
+ }, labels.no_accounts_title), /* @__PURE__ */ __dil.jsx(
+ }, labels.split), item.fare_notice && /* @__PURE__ */ __dil.jsx(
+ }, progress.missed_indices.length)), /* @__PURE__ */ __dil.jsx(
+ }, prompt.label), /* @__PURE__ */ __dil.jsx(
+ }, props.description),
+			divider: false
+		}, /* @__PURE__ */ __dil.jsx(
+ }, pulse ? /* @__PURE__ */ __dil.jsx(
+ }, row.name), row.is_striker && /* @__PURE__ */ __dil.jsx(
+ }, row.name), row.subtitle ? /* @__PURE__ */ __dil.jsx(
+ }, segment.route), /* @__PURE__ */ __dil.jsx(
+ }, state.body), /* @__PURE__ */ __dil.jsx(
+ }, state.date.number)), /* @__PURE__ */ __dil.jsx(
+ }, state.date.subheader)), /* @__PURE__ */ __dil.jsx(
+ }, state.description)), /* @__PURE__ */ __dil.jsx(
+ }, state.display_title)), state.races.length > 1 && /* @__PURE__ */ __dil.jsx(
+ }, state.display_title)), state.tabs.length > 1 ? /* @__PURE__ */ __dil.jsx(
+ }, state.edit_card_label))), /* @__PURE__ */ __dil.jsx(
+ }, state.emailFrom)), /* @__PURE__ */ __dil.jsx(
+ }, state.emoji) : /* @__PURE__ */ __dil.jsx(
+ }, state.heading), state.fallback_message && /* @__PURE__ */ __dil.jsx(
+ }, state.ipa)), state.spelling.alt.length > 0 && /* @__PURE__ */ __dil.jsx(
+ }, state.label)), /* @__PURE__ */ __dil.jsx(
+ }, state.merchant) : null), state.description ? /* @__PURE__ */ __dil.jsx(
+ }, state.name), /* @__PURE__ */ __dil.jsx(
+ }, state.offer.action.contextual_sentence) : null, /* @__PURE__ */ __dil.jsx(
+ }, state.player.country_flag), /* @__PURE__ */ __dil.jsx(
+ }, state.player.display_name), /* @__PURE__ */ __dil.jsx(
+ }, state.price) : null, state.merchant ? /* @__PURE__ */ __dil.jsx(
+ }, state.scheduled_time_text))), /* @__PURE__ */ __dil.jsx(
+ }, state.shuffle_label))), showViewAll && /* @__PURE__ */ __dil.jsx(
+ }, state.spelling.headword), /* @__PURE__ */ __dil.jsx(
+ }, state.stopped_label) : /* @__PURE__ */ __dil.jsx(
+ }, state.summary_title), state.summary_subtitle && /* @__PURE__ */ __dil.jsx(
+ }, state.task_title)), /* @__PURE__ */ __dil.jsx(
+ }, state.title) : null, state.is_carousel ? /* @__PURE__ */ __dil.jsx(
+ }, state.title))), /* @__PURE__ */ __dil.jsx(
+ }, state.title)), /* @__PURE__ */ __dil.jsx(
+ }, state.title), /* @__PURE__ */ __dil.jsx(
+ }, state.title), state.hasMultipleConferences && /* @__PURE__ */ __dil.jsx(
+ }, state.title), state.show_flow_tabs ? /* @__PURE__ */ __dil.jsx(
+ }, state.top_details.map((detail, index) => /* @__PURE__ */ __dil.jsx(
+ }, state.undo_label))), showEdit && /* @__PURE__ */ __dil.jsx(
+ }, subject)), /* @__PURE__ */ __dil.jsx(
+ }, summary)), /* @__PURE__ */ __dil.jsx(
+ }, task.emoji), /* @__PURE__ */ __dil.jsx(
+ }, task.title))), state.show_dismiss && /* @__PURE__ */ __dil.jsx(
+ }, temperatureLabel(day.high, unit)), /* @__PURE__ */ __dil.jsx(
+ }, term))))))))), state.forms.length > 0 && /* @__PURE__ */ __dil.jsx(
+)
+		}, /* @__PURE__ */ __dil.jsx(
+)
+		}, action.icon ? /* @__PURE__ */ __dil.jsx(
+)
+		}, item))))), /* @__PURE__ */ __dil.jsx(
+)
+		}, item)))), /* @__PURE__ */ __dil.jsx(
+)
+		}, state.continue_label), /* @__PURE__ */ __dil.jsx(
+)
+		}, state.view_on_zocdoc_label, /* @__PURE__ */ __dil.jsx(
+) && /* @__PURE__ */ __dil.jsx(
+) && /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, /* @__PURE__ */ __dil.jsx(
+) && state.share_result_label ? /* @__PURE__ */ __dil.jsx(
+) + item.day_change_percent_label)), /* @__PURE__ */ __dil.jsx(
+) : /* @__PURE__ */ __dil.jsx(
+) : String(value.value)), value?.text && /* @__PURE__ */ __dil.jsx(
+) : null, /* @__PURE__ */ __dil.jsx(
+) : null, categories.length > 0 ? /* @__PURE__ */ __dil.jsx(
+) : null, hasOpenStatus ? /* @__PURE__ */ __dil.jsx(
+) : null, state.category ? /* @__PURE__ */ __dil.jsx(
+) : null;
+		const team = (side) => /* @__PURE__ */ __dil.jsx(
+) : overview.loading ? /* @__PURE__ */ __dil.jsx(
+) : quoteProviders.length > 1 ? /* @__PURE__ */ __dil.jsx(
+) : review.created_at && /* @__PURE__ */ __dil.jsx(
+) ? /* @__PURE__ */ __dil.jsx(
+) return /* @__PURE__ */ __dil.jsx(
+) }
+			})
+		}, state.submit_label))) : /* @__PURE__ */ __dil.jsx(
+)) : !ready ? /* @__PURE__ */ __dil.jsx(
+)) : /* @__PURE__ */ __dil.jsx(
+)) : null) : null)));
+		}
+		return /* @__PURE__ */ __dil.jsx(
+)) : null) : null, hasPrice || hasOpenStatus ? /* @__PURE__ */ __dil.jsx(
+)) : null), live && /* @__PURE__ */ __dil.jsx(
+)) : null, /* @__PURE__ */ __dil.jsx(
+))) : /* @__PURE__ */ __dil.jsx(
+))) : void 0
+		}))) : /* @__PURE__ */ __dil.jsx(
+)))))), /* @__PURE__ */ __dil.jsx(
+))))));
+		}
+		return /* @__PURE__ */ __dil.jsx(
+))))));
+	}
+
+//#endregion
+return EntityReviewSubmit;
+})();
+return __dilDefaultExport;
+})()
+))))), /* @__PURE__ */ __dil.jsx(
+))))), day && /* @__PURE__ */ __dil.jsx(
+)))));
+		return /* @__PURE__ */ __dil.jsx(
+)))),
+			/* @__PURE__ */ __dil.jsx(
+)))), /* @__PURE__ */ __dil.jsx(
+))));
+	}
+	function Prototype({ children, labels }) {
+		return /* @__PURE__ */ __dil.jsx(
+))));
+	}
+
+//#endregion
+return EntityReviews;
+})();
+return __dilDefaultExport;
+})()
+))), !wide && !detail && (closed || state.is_scheduled) && /* @__PURE__ */ __dil.jsx(
+))), ...columns.map((column) => /* @__PURE__ */ __dil.jsx(
+))), /* @__PURE__ */ __dil.jsx(
+))), conversationShared && /* @__PURE__ */ __dil.jsx(
+))), showFull && /* @__PURE__ */ __dil.jsx(
+))), state.has_started && /* @__PURE__ */ __dil.jsx(
+)));
+		return /* @__PURE__ */ __dil.jsx(
+)));
+		})));
+		return /* @__PURE__ */ __dil.jsx(
+)));
+	}
+
+//#endregion
+return FollowUpQuiz;
+})();
+return __dilDefaultExport;
+})()
+)));
+	}
+
+//#endregion
+return OpenaiWidget;
+})();
+return __dilDefaultExport;
+})()
+)));
+	}
+
+//#endregion
+return SuperbowlRiddleWidget;
+})();
+return __dilDefaultExport;
+})()
+)),
+				divider: false,
+				prompt: /* @__PURE__ */ __dil.jsx(
+)), !reviews.length && /* @__PURE__ */ __dil.jsx(
+)), /* @__PURE__ */ __dil.jsx(
+)), provider.locations[0]?.partner_logo_url != null && /* @__PURE__ */ __dil.jsx(
+)), state.is_scheduled && !state.has_started && /* @__PURE__ */ __dil.jsx(
+)), state.weather_ready && /* @__PURE__ */ __dil.jsx(
+)), wide && /* @__PURE__ */ __dil.jsx(
+));
+		if (!item.detail_sidebar_enabled) return body;
+		return /* @__PURE__ */ __dil.jsx(
+));
+		return /* @__PURE__ */ __dil.jsx(
+));
+	}
+
+//#endregion
+//#region ConversationalOnboardingStudy.dil.tsx
+	const Svg = 
+)+1).slice(0,-8)}function Ne(e){let t={OpGenuiResolvedComponentBoundary:
+),
+			slot: selectedSlot
+		}) : /* @__PURE__ */ __dil.jsx(
+), !hidden && current.change !== 0 ? /* @__PURE__ */ __dil.jsx(
+), !item.reservation_widget && !item.enrichment_pending && /* @__PURE__ */ __dil.jsx(
+), !ready ? /* @__PURE__ */ __dil.jsx(
+), (error || current.uncertain) && /* @__PURE__ */ __dil.jsx(
+), /* @__PURE__ */ __dil.jsx(
+), /* @__PURE__ */ __dil.jsx(LinkImpression, {
+			url: 
+), event.time && /* @__PURE__ */ __dil.jsx(
+), quoteChoicesOpen ? /* @__PURE__ */ __dil.jsx(
+), score >= row.min_score && score <= row.max_score && /* @__PURE__ */ __dil.jsx(
+), turnFailed && /* @__PURE__ */ __dil.jsx(
+), turnFailed && started && /* @__PURE__ */ __dil.jsx(
+), wide && /* @__PURE__ */ __dil.jsx(
+).map((option) => /* @__PURE__ */ __dil.jsx(
+);
+				setSelectedTaskId(null);
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+);
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+);
+		const [selectedSlotKey, setSelectedSlotKey] = DIL.useState(
+);
+		const [status, setStatus] = DIL.useState(state.status ?? 
+);
+		const [tab, setTab] = DIL.useState(state.tab ?? 
+);
+		const [view, setView] = DIL.useState(state.active_view ?? 
+);
+		const compact = !DIL.useBreakpoint(
+);
+		const isMd = DIL.useBreakpoint(
+);
+		const isMobile = DIL.useIsMobile();
+		return /* @__PURE__ */ __dil.jsx(
+);
+		const isXs = DIL.useBreakpoint(
+);
+		const larger = DIL.useBreakpoint(
+);
+		const showImage = task ? task.showImage : true;
+		return /* @__PURE__ */ __dil.jsx(
+);
+		const weather = state.weather_dil.component === 
+);
+		const { resolutionComplete, state } = useResolvedComponentResult(
+);
+		const { state, resolutionComplete } = useResolvedComponentResult(
+);
+		if (!enabled && !header) return null;
+		return /* @__PURE__ */ __dil.jsx(
+);
+		if (!state) return resolutionComplete ? null : /* @__PURE__ */ __dil.jsx(
+);
+		if (liveActivity) return /* @__PURE__ */ __dil.jsx(
+);
+		return /* @__PURE__ */ __dil.jsx(
+);
+		return /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, /* @__PURE__ */ __dil.jsx(
+,
+							content_reference_type: 
+,
+							widget_action_target: 
+,
+							widget_action_value: nextUnit,
+							surface_location: 
+,
+							widget_action_value: plugin.id,
+							surface_location: 
+,
+							widget_affordance: 
+,
+						...unit === void 0 ? {} : { widget_action_value: unit },
+						surface_location: 
+,
+						content_reference_type: 
+,
+						event_data: {
+							widget_affordance: 
+,
+						event_data: {
+							widget_name: 
+,
+						widget_action_target: state.error_operation === 
+,
+						widget_action_value: state.error_operation === 
+,
+					answerIndex: index
+				});
+			});
+			return /* @__PURE__ */ __dil.jsx(
+,
+					event_data: {
+						widget_affordance: 
+,
+					event_data: {
+						widget_name: 
+,
+					query
+				}
+			})
+		}, query)))), /* @__PURE__ */ __dil.jsx(
+,
+					value: item.value
+				}
+			})
+		}, copyLabel)), /* @__PURE__ */ __dil.jsx(
+,
+				__state: reservation
+			}), item.enrichment_pending && /* @__PURE__ */ __dil.jsx(
+,
+				background: item.color
+			})), /* @__PURE__ */ __dil.jsx(
+,
+				clip: true
+			}, /* @__PURE__ */ __dil.jsx(
+,
+				clip: true
+			}, image != null ? /* @__PURE__ */ __dil.jsx(
+,
+				clip: true
+			}, item.search_image ? /* @__PURE__ */ __dil.jsx(
+,
+				event_data: {
+					widget_name: 
+,
+				gap: 1,
+				padding: { y: 0 }
+			}, item.flag_emoji && /* @__PURE__ */ __dil.jsx(
+,
+				gap: 1,
+				padding: { y: 1 }
+			}, row.flag_emoji ? /* @__PURE__ */ __dil.jsx(
+,
+				gap: 2
+			}, /* @__PURE__ */ __dil.jsx(
+,
+				height: cardHeight
+			}))
+		])), /* @__PURE__ */ __dil.jsx(
+,
+				hideOnFailure: true
+			}) : /* @__PURE__ */ __dil.jsx(
+,
+				hideOnFailure: true
+			}), /* @__PURE__ */ __dil.jsx(
+,
+				hideOnFailure: true,
+				fallback: /* @__PURE__ */ __dil.jsx(
+,
+				label: labels.strike_rate
+			}
+		];
+		return /* @__PURE__ */ __dil.jsx(
+,
+				maxHeight: 36,
+				clip: true
+			}, /* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, item.flag_emoji)), /* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, item.subtitle)))),
+			/* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, row.flag_emoji)) : null, /* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, row.rank))),
+			/* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, state.detail_header)),
+			/* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, state.driver_header)),
+			/* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, transaction.date_label), /* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, transaction.display_name)), /* @__PURE__ */ __dil.jsx(
+,
+				maxLines: 1
+			}, transaction.display_name), /* @__PURE__ */ __dil.jsx(
+,
+				onClick: () => GenUI.openUrl(review.url)
+			}, /* @__PURE__ */ __dil.jsx(
+,
+				onVisible: logCardViewed
+			} : {}
+		}, /* @__PURE__ */ __dil.jsx(
+,
+				padding: { y: 2 }
+			}, /* @__PURE__ */ __dil.jsx(
+,
+				payload: { component_key: componentKey }
+			})
+		}, /* @__PURE__ */ __dil.jsx(
+,
+				payload: {}
+			})
+		}, /* @__PURE__ */ __dil.jsx(
+,
+				size: 4
+			})),
+			...state.duration_label ? [/* @__PURE__ */ __dil.jsx(
+,
+				src: state.image_url,
+				width: 96
+			})) : null, /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, forecast.location_label), /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, game.home.alias || game.home.name), /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, game.title), /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, item.label), /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, itemSourceLabel)), itemTitle ? /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, state.carrier_label), /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, state.error_label) : loading ? /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, state.status_label)), /* @__PURE__ */ __dil.jsx(
+,
+				truncate: true
+			}, summary.description)), /* @__PURE__ */ __dil.jsx(
+,
+				width: 18
+			}, /* @__PURE__ */ __dil.jsx(
+,
+				width: 24,
+				height: 24,
+				fallback: /* @__PURE__ */ __dil.jsx(
+,
+			ariaAtomic: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			ariaHidden: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			ariaHidden: true
+		}, /* @__PURE__ */ __dil.jsx(Svg, {
+			viewBox: 
+,
+			ariaHidden: true
+		}, state.emoji ? /* @__PURE__ */ __dil.jsx(
+,
+			ariaLabel: attribution ? void 0 : data.aria_label
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			ariaLabel: hiddenWord
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			ariaLabel: state.day_label
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			ariaLabel: state.focus_mode_label
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			background: event.color
+		}), /* @__PURE__ */ __dil.jsx(
+,
+			background: item.color
+		})), /* @__PURE__ */ __dil.jsx(
+,
+			background: probability.color
+		})))), /* @__PURE__ */ __dil.jsx(
+,
+			background: state.budget.bar_color
+		}))))), /* @__PURE__ */ __dil.jsx(
+,
+			border: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			clip: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			clip: true
+		}, item.thumbnail_url ? /* @__PURE__ */ __dil.jsx(
+,
+			clip: true,
+			elevated: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			color: result.color
+		}, result.band)), /* @__PURE__ */ __dil.jsx(
+,
+			color: resultColor
+		})) : null, /* @__PURE__ */ __dil.jsx(
+,
+			content_reference_type: 
+,
+			disabled: !enabled,
+			onClick: submit
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			fallback: /* @__PURE__ */ __dil.jsx(
+,
+			flex: 1
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			flex: 1
+		}, state.rating != null ? /* @__PURE__ */ __dil.jsx(
+,
+			flex: 1,
+			minHeight: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			flex: 1,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			flex: 1,
+			minWidth: wide ? 0 : 68
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			flush: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			flush: true,
+			padding: { bottom: 2 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			fontSize: 24,
+			lineHeight: 32
+		}, item.emoji) : /* @__PURE__ */ __dil.jsx(
+,
+			fontSize: 24,
+			lineHeight: 32
+		}, state.emoji) : /* @__PURE__ */ __dil.jsx(
+,
+			gap: .5,
+			minWidth: 68
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: .7
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: .75,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 0
+		}, actions.length > 0 && /* @__PURE__ */ __dil.jsx(
+,
+			gap: 0,
+			flex: 1,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 0,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 0,
+			padding: { top: 3 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 0,
+			padding: { x: wide ? 6 : 1 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 1
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 1
+		}, /* @__PURE__ */ __dil.jsx(SoccerListTeam, {
+			item,
+			side: 
+,
+			gap: 1,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 1,
+			minWidth: 0
+		}, card.title ? /* @__PURE__ */ __dil.jsx(
+,
+			gap: 1,
+			width: 80
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 1.5
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 1.5
+		}, detail ? /* @__PURE__ */ __dil.jsx(
+,
+			gap: 1.5,
+			minWidth: 0
+		}, item.airline_logo_url ? /* @__PURE__ */ __dil.jsx(
+,
+			gap: 1.5,
+			minWidth: 0
+		}, state.airline_logo_url ? /* @__PURE__ */ __dil.jsx(
+,
+			gap: 2
+		}, !complete && /* @__PURE__ */ __dil.jsx(
+,
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx(OnboardingTabs, {
+			items: [
+				{
+					id: 
+,
+			gap: 2,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 2,
+			onClick: openFile
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 3
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 3
+		}, selectedDay.slot_groups.map((group, index) => /* @__PURE__ */ __dil.jsx(
+,
+			gap: 3
+		}, state.season_stats.map((stat) => /* @__PURE__ */ __dil.jsx(
+,
+			gap: 3,
+			padding: {
+				top: 5,
+				bottom: 4
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 3,
+			padding: {
+				x: 5,
+				y: 4
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 4
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 4
+		}, items.map((item) => /* @__PURE__ */ __dil.jsx(
+,
+			gap: 4,
+			padding: { bottom: 3 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 6
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			gap: 8,
+			minWidth: 0
+		}, wide && /* @__PURE__ */ __dil.jsx(
+,
+			gap: isSm ? 2 : 3
+		}, showImage && /* @__PURE__ */ __dil.jsx(
+,
+			gap: wide ? 0 : 2,
+			padding: { x: wide ? 6 : 0 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			height: 24,
+			width: 1
+		}) : null, /* @__PURE__ */ __dil.jsx(
+,
+			height: 28
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			height: 52
+		}, /* @__PURE__ */ __dil.jsx(SvgRect, {
+			x: 0,
+			y: 0,
+			width: 
+,
+			height: 60,
+			padding: { x: 5 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			height: 72,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			height: isDesktop ? 60 : 48,
+			padding: { x: 5 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: !isSm
+		})), /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: true
+		}) : /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: true
+		}) : null, /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: true
+		})) : action.emoji ? /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: true
+		})) : null, /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: true
+		})) : state.emoji ? /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: true
+		}), /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: true
+		}), item.caption && /* @__PURE__ */ __dil.jsx(
+,
+			hideOnFailure: true,
+			fallback
+		}), showEmoji && /* @__PURE__ */ __dil.jsx(
+,
+			inline: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			lineHeight: 24,
+			truncate: true
+		}, item.title), /* @__PURE__ */ __dil.jsx(
+,
+			lineHeight: 24,
+			truncate: true
+		}, state.title), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, card.rating_label), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, feature.artwork_label)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.amount_label)) : null)));
+		return /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.amount_label))))))))) : /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.date_label), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.display_name), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.feature_label), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.label))), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.label)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.label), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.percent_label))) : /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.percent_label)), !hidden ? /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.percent_label)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, item.title), item.snippet && /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, state.display_name) : /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, state.display_name), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, state.title), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, transaction.date_label)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, transaction.date_label), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1
+		}, transaction.display_name), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1,
+			truncate: true
+		}, item.domain)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1,
+			truncate: true
+		}, item.label), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 1,
+			truncate: true
+		}, meta)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, card.title))) : /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, card.title)), card.metadata_label && /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, card.title), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, example.sentence), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, group.label)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, item.description)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, item.description)), clickable && /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, item.label), item.description != null && /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, item.title)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, state.destination_city), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, state.origin_city), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, state.specialty_practice_label), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, state.title)), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2
+		}, state.title), hasMetadata ? /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 2,
+			truncate: true
+		}, state.title), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 3
+		}, item.title)), item.thumbnail_url && /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 3
+		}, state.title)), state.thumbnail_url && /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 4
+		}, card.text), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: 5
+		}, item.title), item.date_label && /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: isDesktop ? 1 : 2
+		}, item.title), /* @__PURE__ */ __dil.jsx(
+,
+			maxLines: isDesktop ? 3 : 2
+		}, item.description))))))), /* @__PURE__ */ __dil.jsx(
+,
+			maxWidth: 128,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			minHeight: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			minHeight: 0
+		}, wide ? /* @__PURE__ */ __dil.jsx(
+,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			minWidth: 0
+		}, index > 0 ? /* @__PURE__ */ __dil.jsx(
+,
+			minWidth: 144,
+			width: 260
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			minWidth: 36
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			minWidth: 96,
+			width: 132
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: () => expand(!expanded)
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: () => setActiveGameId(item.game.id)
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: () => setActiveGameId(item.id)
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: () => setDay(0)
+		}, state.reset_label)), /* @__PURE__ */ __dil.jsx(
+,
+			onClick: () => setLimit(limit + 6)
+		}, labels.more, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: () => setSelected(candidateIndex)
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: () => {
+				setOpen(!open);
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: openRepair
+		}, state.cta_label)));
+		return /* @__PURE__ */ __dil.jsx(
+,
+			onClick: requestLocation
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: startVoice
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			onClick: unload
+		}, inBoat))), /* @__PURE__ */ __dil.jsx(
+,
+			onClick: unload
+		}, inBoat)), /* @__PURE__ */ __dil.jsx(
+,
+			opacity: isDark ? .35 : .5
+		}), /* @__PURE__ */ __dil.jsx(SvgPath, {
+			d: 
+,
+			padding: 0
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			padding: 0,
+			gap: 0
+		}, canToggle ? /* @__PURE__ */ __dil.jsx(
+,
+			padding: 4,
+			gap: 4,
+			shadow: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			padding: 5,
+			theme
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			padding: isWide ? void 0 : { x: 1 }
+		}), /* @__PURE__ */ __dil.jsx(
+,
+			padding: isWide ? void 0 : { x: 1 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			padding: task ? 0 : 4,
+			shadow: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			padding: {
+				x: 5,
+				y: 3
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			padding: {
+				x: 6,
+				top: 5,
+				bottom: 4
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			padding: { top: 2 }
+		}, venue?.name && /* @__PURE__ */ __dil.jsx(
+,
+			padding: { y: 2 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			padding: { y: 6 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			pill: !compact
+		}) : null, /* @__PURE__ */ __dil.jsx(
+,
+			pill: false,
+			disabled: true
+		}, state.confirm_label), /* @__PURE__ */ __dil.jsx(
+,
+			pill: true
+		}) : /* @__PURE__ */ __dil.jsx(
+,
+			pill: true
+		})) : null, /* @__PURE__ */ __dil.jsx(
+,
+			pill: true
+		})), activeConference ? /* @__PURE__ */ __dil.jsx(
+,
+			pill: true
+		})), group && /* @__PURE__ */ __dil.jsx(
+,
+			preserveWhitespace: true
+		}, activeMode.subtitle)), /* @__PURE__ */ __dil.jsx(
+,
+			preserveWhitespace: true
+		}, criterion.help)), /* @__PURE__ */ __dil.jsx(
+,
+			preserveWhitespace: true
+		}, field.help)), /* @__PURE__ */ __dil.jsx(
+,
+			preserveWhitespace: true
+		}, note))))), /* @__PURE__ */ __dil.jsx(
+,
+			preserveWhitespace: true
+		}, section.body))))), /* @__PURE__ */ __dil.jsx(
+,
+			preserveWhitespace: true
+		}, state.subtitle)), /* @__PURE__ */ __dil.jsx(
+,
+			preserveWhitespace: true
+		}, text))) : /* @__PURE__ */ __dil.jsx(
+,
+			rounded: false
+		}), /* @__PURE__ */ __dil.jsx(
+,
+			rows: 9,
+			autoResize: true
+		}));
+		return /* @__PURE__ */ __dil.jsx(
+,
+			scrollable: true,
+			padding: { x: 0 }
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			shadow: true
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			sideOffset: 4
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			sideOffset: 4,
+			width: 180
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			sideOffset: 6
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			sideOffset: 8
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			size: 18
+		}), card.link_host && /* @__PURE__ */ __dil.jsx(
+,
+			spacing: 0
+		}), state.steps == null ? /* @__PURE__ */ __dil.jsx(
+,
+			src: imageUrl,
+			width: 64
+		}) : null, /* @__PURE__ */ __dil.jsx(
+,
+			src: item.airline_logo_url,
+			width: 18
+		}) : null, /* @__PURE__ */ __dil.jsx(
+,
+			src: state.airline_logo_url,
+			width: 18
+		}) : null, /* @__PURE__ */ __dil.jsx(
+,
+			startedAt: now
+		});
+		const admittedImageKey = DIL.useRef(
+,
+			tabularNums: true
+		}, String(score)), /* @__PURE__ */ __dil.jsx(
+,
+			tabularNums: true
+		}, card.price_text)), /* @__PURE__ */ __dil.jsx(
+,
+			tabularNums: true
+		}, data.rating_label), /* @__PURE__ */ __dil.jsx(
+,
+			tabularNums: true
+		}, label), /* @__PURE__ */ __dil.jsx(
+,
+			tabularNums: true
+		}, risk.exact_risk), /* @__PURE__ */ __dil.jsx(
+,
+			tabularNums: true
+		}, row.exact_risk), /* @__PURE__ */ __dil.jsx(
+,
+			tabularNums: true
+		}, timeLabel(initialMs))), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, asset.price_text)))) : /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, asset.ticker || asset.company_name), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, card.company_name)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, day.label), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, detail.value) : null))), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, group.party_size_label);
+		return /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, item.label), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, item.price_label)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, item.source_label)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, item.ticker), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, item.title), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, label)))))), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, name)))), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, source) : null), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, sourceLabel)), items.length > 1 ? /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.address));
+		return /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.arrival_time_label), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.asset_display_name), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.badge_label)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.carrier_label), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.departure_time_label)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.goal_label)));
+		return /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.header_label)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.header_label), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.labels.asset)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.labels.day_change_percent)))), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.labels.price)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.player.display_name), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.sender_name), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, state.title), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, team.name), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true
+		}, transaction.date_label)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true,
+			maxLines: 1
+		}, item.name)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true,
+			maxLines: 1
+		}, item.source_label)), /* @__PURE__ */ __dil.jsx(
+,
+			truncate: true,
+			maxLines: 1
+		}, state.source_label)), /* @__PURE__ */ __dil.jsx(
+,
+			underline: true
+		}, state.browse_label)) : null), /* @__PURE__ */ __dil.jsx(
+,
+			underline: true
+		}, state.confirm_label)), /* @__PURE__ */ __dil.jsx(
+,
+			uniform: true,
+			onClick: onBack
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			value: query,
+			onChange: setQuery
+		}), /* @__PURE__ */ __dil.jsx(
+,
+			visibleItems: 1
+		}, reviews.map((review) => /* @__PURE__ */ __dil.jsx(
+,
+			widget_action_target: 
+,
+			widget_action_value: task.id,
+			surface_location: 
+,
+			widget_affordance: 
+,
+			width: 14,
+			height: 14
+		}, /* @__PURE__ */ __dil.jsx(SvgPath, {
+			d: 
+,
+			width: 18,
+			height: 18,
+			fallback: /* @__PURE__ */ __dil.jsx(
+,
+			width: 20
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			width: 20,
+			height: 20
+		}))))), /* @__PURE__ */ __dil.jsx(
+,
+			width: 20,
+			height: 20
+		}), state.company != null && /* @__PURE__ */ __dil.jsx(
+,
+			width: 24,
+			height: 24,
+			hideOnFailure: true
+		})), /* @__PURE__ */ __dil.jsx(
+,
+			width: 260,
+			height: 70
+		})), /* @__PURE__ */ __dil.jsx(
+,
+			width: 28,
+			height: 28,
+			hideOnFailure: true
+		})), /* @__PURE__ */ __dil.jsx(
+,
+			width: 28,
+			height: 28,
+			hideOnFailure: true
+		}), /* @__PURE__ */ __dil.jsx(
+,
+			width: 48
+		}, /* @__PURE__ */ __dil.jsx(
+,
+			width: item.bar_width,
+			background: item.color
+		})), /* @__PURE__ */ __dil.jsx(
+, /* @__PURE__ */ __dil.jsx(
+, String(cardOrder.length)))), /* @__PURE__ */ __dil.jsx(
+, nextUnit);
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+, null) : null, /* @__PURE__ */ __dil.jsx(
+, null) : null, event.isNew ? /* @__PURE__ */ __dil.jsx(
+, null)) : /* @__PURE__ */ __dil.jsx(
+, null))))))), state.rows.length > 5 && /* @__PURE__ */ __dil.jsx(
+, null)))))));
+	}
+	function FootballView({ state }) {
+		const wide = DIL.useBreakpoint(
+, null));
+		}))) : /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, question.kind === 
+, null));
+		})), state.transactions.length > 0 && /* @__PURE__ */ __dil.jsx(
+, null));
+		})), state.transactions.length > 3 && /* @__PURE__ */ __dil.jsx(
+, null), /* @__PURE__ */ __dil.jsx(
+, null), example.form && /* @__PURE__ */ __dil.jsx(
+, null, /* @__PURE__ */ __dil.jsx(
+, null, [/* @__PURE__ */ __dil.jsx(
+, null, division.teams.map((team) => /* @__PURE__ */ __dil.jsx(
+, null, event.title), locations && event.location != null ? /* @__PURE__ */ __dil.jsx(
+, null, header), enabled && /* @__PURE__ */ __dil.jsx(
+, null, item.metadata_label) : null);
+			return /* @__PURE__ */ __dil.jsx(
+, null, option))), index < question.options.length - 1 && /* @__PURE__ */ __dil.jsx(
+, null, partySize), /* @__PURE__ */ __dil.jsx(
+, null, reviews.summary), /* @__PURE__ */ __dil.jsx(
+, null, state.description) : null))));
+		return /* @__PURE__ */ __dil.jsx(
+, null, state.forecast.hourly.map((hour) => /* @__PURE__ */ __dil.jsx(
+, null, state.invitation) : null, /* @__PURE__ */ __dil.jsx(
+, null, state.math_graph_description), /* @__PURE__ */ __dil.jsx(
+, null, state.partOfSpeech)), state.ipa && /* @__PURE__ */ __dil.jsx(
+, null, state.plan.summary), /* @__PURE__ */ __dil.jsx(
+, null, state.suggestions.map((suggestion) => /* @__PURE__ */ __dil.jsx(
+, null, state.troubleshooting_diagnostic_question), /* @__PURE__ */ __dil.jsx(
+, null, venue.detail), /* @__PURE__ */ __dil.jsx(
+, rounded = true }) {
+		const fallback = /* @__PURE__ */ __dil.jsx(
+, state)
+		}, /* @__PURE__ */ __dil.jsx(
+, state.questions.length) : question ? /* @__PURE__ */ __dil.jsx(
+, true))), /* @__PURE__ */ __dil.jsx(
+, {
+				flex: 1,
+				gap: 1,
+				minWidth: 0
+			}, /* @__PURE__ */ __dil.jsx(
+, {
+				flex: 1,
+				minWidth: 0
+			}, /* @__PURE__ */ __dil.jsx(
+, {
+				flex: 1,
+				minWidth: 0
+			}, itemDetail ? /* @__PURE__ */ __dil.jsx(
+, {
+				flex: 1,
+				minWidth: 0,
+				gap: 0
+			}, /* @__PURE__ */ __dil.jsx(
+, {
+				gap: 1,
+				flex: 1,
+				minWidth: 0
+			}, /* @__PURE__ */ __dil.jsx(
+, {
+				gap: 3,
+				minHeight: 32
+			}, /* @__PURE__ */ __dil.jsx(
+, {
+				height: 0,
+				ariaHidden: true
+			})), /* @__PURE__ */ __dil.jsx(
+, {
+				minWidth: 0,
+				gap: 0
+			}, /* @__PURE__ */ __dil.jsx(
+, {
+			columns: wide ? 2 : 1,
+			gap: 1
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			gap: .5,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			gap: 1
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			gap: 1,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			gap: 3
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			minWidth: 0,
+			gap: .5
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			minWidth: 0,
+			gap: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			minWidth: 0,
+			gap: 0
+		}, mobile ? /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			minWidth: 0,
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			minWidth: 140
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			minWidth: 72
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			flex: 1,
+			padding: 5
+		}, /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, [
+, {
+			flex: 1,
+			padding: { top: 1.5 }
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			frame: true,
+			size: 16,
+			url: item.url
+		}), /* @__PURE__ */ __dil.jsx(
+, {
+			frame: true,
+			size: 20,
+			url
+		}), source ? /* @__PURE__ */ __dil.jsx(
+, {
+			frame: true,
+			size: 40,
+			url: item.url
+		})), /* @__PURE__ */ __dil.jsx(
+, {
+			gap: .5,
+			flex: 1,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 0,
+			flex: 1,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 0,
+			padding: {
+				x: 6,
+				y: 1
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 0,
+			padding: { left: 2 }
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 0,
+			padding: { top: 2 }
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 0,
+			padding: { x }
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 0,
+			padding: { x: 6 }
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 1,
+			disableAutoSpacing: true
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 1,
+			flex: 1
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 1,
+			minWidth: 120
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 1,
+			padding: 3,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 1.5,
+			disableAutoSpacing: true
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 1.5,
+			flex: 1,
+			minWidth: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 1.5,
+			flex: 1,
+			minWidth: 220
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 1.5,
+			flex: 1,
+			minWidth: 260
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 2,
+			disableAutoSpacing: true
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 3,
+			padding: { y: 5 }
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 4,
+			padding: 4
+		}, isCompact || isFullReady ? /* @__PURE__ */ __dil.jsx(
+, {
+			gap: 4,
+			padding: {
+				x: 5,
+				y: 5
+			}
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			height: 44,
+			width: 44
+		}))))))), selectedDay && /* @__PURE__ */ __dil.jsx(
+, {
+			height: 60,
+			ariaHidden: true
+		})) : /* @__PURE__ */ __dil.jsx(
+, {
+			inline: true,
+			onClick
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			inline: true,
+			padding: 0,
+			disabled: true
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			inline: true,
+			padding: 0,
+			onClick: onCancel
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			key: index,
+			flex: 1,
+			gap: 1
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			key: index,
+			gap: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			key: index,
+			gap: 1
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			key: option.value,
+			gap: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			key: row.key ?? rowIndex,
+			gap: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			key: row.key,
+			gap: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			key: side,
+			gap: .5
+		}, index > 0 && /* @__PURE__ */ __dil.jsx(
+, {
+			key: side,
+			gap: 4
+		}, index > 0 ? /* @__PURE__ */ __dil.jsx(
+, {
+			key: stat.header,
+			flex: 1
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			key: task.id,
+			gap: 0
+		}, task.prompts.length > 0 ? /* @__PURE__ */ __dil.jsx(
+, {
+			padding: {
+				x: 3,
+				y: 2
+			},
+			gap: 0
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			padding: { top: 2 },
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx(
+, {
+			size: 12,
+			url
+		})) : null, /* @__PURE__ */ __dil.jsx(
+, {
+			url: item.url,
+			size: 20
+		}), /* @__PURE__ */ __dil.jsx(
+, {
+			url: state.url,
+			size: 20
+		}), /* @__PURE__ */ __dil.jsx(
+, { ariaHidden: true }, /* @__PURE__ */ __dil.jsx(
+, { flex: 1 }, /* @__PURE__ */ __dil.jsx(
+, { flush: true }), /* @__PURE__ */ __dil.jsx(
+, { flush: true }), /* @__PURE__ */ __dil.jsx(EmailField, {
+			label: 
+, { gap: .5 }, /* @__PURE__ */ __dil.jsx(
+, { gap: 0 }, /* @__PURE__ */ __dil.jsx(
+, { gap: 0 }, compactVisibleTasks.map((task, index) => /* @__PURE__ */ __dil.jsx(
+, { gap: 0 }, correctOptions.map((option) => /* @__PURE__ */ __dil.jsx(
+, { gap: 0 }, quoteOptions.map(({ provider, label }, index) => /* @__PURE__ */ __dil.jsx(
+, { gap: 0 }, state.options.map((option, index) => /* @__PURE__ */ __dil.jsx(
+, { gap: 0 }, state.transactions.length === 0 && /* @__PURE__ */ __dil.jsx(
+, { gap: 0 }, task && /* @__PURE__ */ __dil.jsx(
+, { gap: 0 }, visible.map((item, index) => /* @__PURE__ */ __dil.jsx(
+, { gap: 1 }, /* @__PURE__ */ __dil.jsx(
+, { gap: 1 }, result.correctionLabel ? /* @__PURE__ */ __dil.jsx(
+, { gap: 1.5 }, /* @__PURE__ */ __dil.jsx(
+, { gap: 2 }, /* @__PURE__ */ __dil.jsx(
+, { gap: 2 }, choices) : /* @__PURE__ */ __dil.jsx(
+, { gap: 2 }, lines.map((line, lineIndex) => /* @__PURE__ */ __dil.jsx(
+, { gap: 2 }, state.translationPairs.map((pair, index) => /* @__PURE__ */ __dil.jsx(
+, { gap: 3 }, /* @__PURE__ */ __dil.jsx(
+, { gap: 3 }, currentQuestion ? /* @__PURE__ */ __dil.jsx(
+, { gap: 3 }, state.candidates.map((choice, candidateIndex) => /* @__PURE__ */ __dil.jsx(
+, { gap: 4 }, /* @__PURE__ */ __dil.jsx(
+, { gap: 4 }, group.map((entry, entryIndex) => /* @__PURE__ */ __dil.jsx(
+, { gap: 4 }, selectedId === null && directions ? /* @__PURE__ */ __dil.jsx(
+, { gap: 5 }, /* @__PURE__ */ __dil.jsx(
+, { gap: isChart ? 0 : 4 }, /* @__PURE__ */ __dil.jsx(
+, { header: true }, /* @__PURE__ */ __dil.jsx(
+, { header: true }, [/* @__PURE__ */ __dil.jsx(
+, { height: 180 }) : overview.failed ? /* @__PURE__ */ __dil.jsx(
+, { height: 3 }))), /* @__PURE__ */ __dil.jsx(
+, { height: isDesktop ? 4 : 0 }), /* @__PURE__ */ __dil.jsx(
+, { inline: true }, /* @__PURE__ */ __dil.jsx(
+, { inline: true }, incident.description), /* @__PURE__ */ __dil.jsx(
+, { inline: true }, state.intro_prefix), /* @__PURE__ */ __dil.jsx(
+, { key: hour.timestamp }, /* @__PURE__ */ __dil.jsx(
+, { key: index }, /* @__PURE__ */ __dil.jsx(
+, { key: menuNonce }, /* @__PURE__ */ __dil.jsx(
+, { key: option.value }, /* @__PURE__ */ __dil.jsx(
+, { key: suggestion.prompt_text }, /* @__PURE__ */ __dil.jsx(
+, { key: termIndex }, /* @__PURE__ */ __dil.jsx(
+, { minHeight: 22 }, /* @__PURE__ */ __dil.jsx(
+, { minHeight: 24 }, /* @__PURE__ */ __dil.jsx(
+, { minSize: 3 }), /* @__PURE__ */ __dil.jsx(
+, { minSize: 4 }), /* @__PURE__ */ __dil.jsx(
+, { padding: task ? 4 : 0 }, /* @__PURE__ */ __dil.jsx(
+, { padding: {
+			left: 6,
+			right: 2,
+			top: 3
+		} }, /* @__PURE__ */ __dil.jsx(
+, { padding: {
+			top: 2,
+			bottom: 2
+		} }, /* @__PURE__ */ __dil.jsx(
+, { padding: {
+			x,
+			bottom: desktop ? 6 : 4
+		} }, /* @__PURE__ */ __dil.jsx(
+, { padding: {
+			x: 4,
+			y: 4
+		} }, /* @__PURE__ */ __dil.jsx(
+, { padding: {
+			x: 5,
+			top: 3,
+			bottom: 4
+		} }, /* @__PURE__ */ __dil.jsx(
+, { padding: {
+			x: 5,
+			top: 4,
+			bottom: 2
+		} }, /* @__PURE__ */ __dil.jsx(
+, { padding: {
+			x: 5,
+			y: 4
+		} }, /* @__PURE__ */ __dil.jsx(
+, { padding: {
+			x: 6,
+			y: 4
+		} }, /* @__PURE__ */ __dil.jsx(
+, { padding: { bottom: .5 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { bottom: 3 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { bottom: 4 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { left: 8 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { top: 3 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { top: 3.5 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { top: 5 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { x: 2 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { x: 5 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { y: 2 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { y: 3 } }, /* @__PURE__ */ __dil.jsx(
+, { padding: { y: 5 } }, /* @__PURE__ */ __dil.jsx(
+, { size: 8 }) : /* @__PURE__ */ __dil.jsx(
+, { size: 8 }), /* @__PURE__ */ __dil.jsx(
+, { spacing: 0 })), !state.has_net_worth_data ? /* @__PURE__ */ __dil.jsx(
+, { spacing: 0 })), /* @__PURE__ */ __dil.jsx(
+, { spacing: 0 })), state.has_entries ? /* @__PURE__ */ __dil.jsx(
+, { spacing: 0 })), state.has_income ? /* @__PURE__ */ __dil.jsx(
+, { spacing: 0 })), state.has_positions ? /* @__PURE__ */ __dil.jsx(
+, { spacing: 0 }), /* @__PURE__ */ __dil.jsx(
+, { strong: true }, state.title) : null, /* @__PURE__ */ __dil.jsx(
+, { width: 4 }), /* @__PURE__ */ __dil.jsx(
+../op-genui-cdw-shims/CodeBlock.dil.tsx
+../op-genui-cdw-shims/WritingBlock.dil.tsx
+./ArtistUpcomingEventsWidget.dil.tsx
+./AskUserDetails.dil.tsx
+./AskUserFiles.dil.tsx
+./AskUserLocation.dil.tsx
+./AskUserLocationV2.dil.tsx
+./AskUserLocationV2Bidi.dil.tsx
+./AsyncImage.dil.tsx
+./AsyncImageGroup.dil.tsx
+./AsyncVideo.dil.tsx
+./AsyncVideoCarousel.dil.tsx
+./AutomationPlanSummary.dil.tsx
+./BasketballTournamentWidget.dil.tsx
+./Bento.dil.tsx
+./BusinessGalleryRefWidget.dil.tsx
+./BusinessGalleryWidget.dil.tsx
+./CalculatorAbcd2ScoreForTransientIschemicAttackWidget.dil.tsx
+./CalculatorApacheIiScoreWidget.dil.tsx
+./CalculatorApgarScoreWidget.dil.tsx
+./CalculatorAsaPhysicalStatusClassificationWidget.dil.tsx
+./CalculatorBilitoolWidget.dil.tsx
+./CalculatorBisapScoreForPancreatitisWidget.dil.tsx
+./CalculatorBishopScoreForCervicalRipeningWidget.dil.tsx
+./CalculatorCanadianCtHeadRuleWidget.dil.tsx
+./CalculatorCha2ds2VascScoreForAtrialFibrillationStrokeRiskWidget.dil.tsx
+./CalculatorChildPughScoreForCirrhosisWidget.dil.tsx
+./CalculatorCorrectedAdjustedAgeOfPretermInfantsWidget.dil.tsx
+./CalculatorCurb65ScoreForPneumoniaWidget.dil.tsx
+./CalculatorDukeTreadmillScoreWidget.dil.tsx
+./CalculatorFourTScoreForHeparinInducedThrombocytopeniaWidget.dil.tsx
+./CalculatorGlasgowBlatchfordScoreForUpperGiBleedingWidget.dil.tsx
+./CalculatorGlasgowComaScaleGcsWidget.dil.tsx
+./CalculatorGraceScoreForAcuteCoronarySyndromeWidget.dil.tsx
+./CalculatorHasBledScoreForMajorBleedingRiskWidget.dil.tsx
+./CalculatorHeartScoreForMajorCardiacEventsWidget.dil.tsx
+./CalculatorHuntAndHessScoreForSubarachnoidHemorrhageWidget.dil.tsx
+./CalculatorIchScoreWidget.dil.tsx
+./CalculatorIsthDicScoreWidget.dil.tsx
+./CalculatorModifiedRankinScaleWidget.dil.tsx
+./CalculatorNexusCervicalSpineRuleWidget.dil.tsx
+./CalculatorNihStrokeScaleNihssWidget.dil.tsx
+./CalculatorOttawaAnkleRuleWidget.dil.tsx
+./CalculatorOttawaKneeRuleWidget.dil.tsx
+./CalculatorPaduaPredictionScoreForVenousThromboembolismRiskWidget.dil.tsx
+./CalculatorPecarnPediatricHeadInjuryRuleWidget.dil.tsx
+./CalculatorPediatricEarlyWarningScorePewsWidget.dil.tsx
+./CalculatorPercRuleForPulmonaryEmbolismWidget.dil.tsx
+./CalculatorPneumoniaSeverityIndexPsiPortWidget.dil.tsx
+./CalculatorQsofaScoreWidget.dil.tsx
+./CalculatorRansonCriteriaForPancreatitisWidget.dil.tsx
+./CalculatorRevisedCardiacRiskIndexRcriWidget.dil.tsx
+./CalculatorRevisedGenevaScoreForPulmonaryEmbolismWidget.dil.tsx
+./CalculatorRochesterCriteriaForFebrileInfantsWidget.dil.tsx
+./CalculatorRockallScoreForUpperGiBleedingWidget.dil.tsx
+./CalculatorRoxIndexForHighFlowNasalCannulaWidget.dil.tsx
+./CalculatorSirsCriteriaWidget.dil.tsx
+./CalculatorSofaScoreWidget.dil.tsx
+./CalculatorStopBangScoreForObstructiveSleepApneaWidget.dil.tsx
+./CalculatorSurgicalApgarScoreWidget.dil.tsx
+./CalculatorTimiRiskWidget.dil.tsx
+./CalculatorWellsScoreForDeepVeinThrombosisWidget.dil.tsx
+./CalculatorWellsScoreForPulmonaryEmbolismWidget.dil.tsx
+./CalculatorWestleyCroupSeverityScoreWidget.dil.tsx
+./CalculatorYearsAlgorithmForPulmonaryEmbolismWidget.dil.tsx
+./CalendarEventsWidget.dil.tsx
+./CalendarList.dil.tsx
+./CareProviderResultsWidget.dil.tsx
+./CareProviderSidebarWidget.dil.tsx
+./CfbGames.dil.tsx
+./CfbGamesWidget.dil.tsx
+./ChecklistWidget.dil.tsx
+./Citation.dil.tsx
+./Cite.dil.tsx
+./ClockWidget.dil.tsx
+./CodeCite.dil.tsx
+./ConversationFollowUpActionList.dil.tsx
+./ConversationalOnboardingAdvice.dil.tsx
+./ConversationalOnboardingFollowUpPills.dil.tsx
+./ConversationalOnboardingSearch.dil.tsx
+./ConversationalOnboardingStudy.dil.tsx
+./ConversationalOnboardingWriting.dil.tsx
+./CopyWordsWidget.dil.tsx
+./CreateInteractivePoll.dil.tsx
+./CricketMatchBoxscoreWidget.dil.tsx
+./CricketSingleMatch.dil.tsx
+./CurrencyConverterV2Widget.dil.tsx
+./CurrencyConverterV2WidgetWithSource.dil.tsx
+./CurrencyConverterWidget.dil.tsx
+./CurrencyConverterWidgetWithSource.dil.tsx
+./DigitalStopwatchWidget.dil.tsx
+./DigitalTimerWidget.dil.tsx
+./DisplayAutomation.dil.tsx
+./DisplayAutomationWidget.dil.tsx
+./DraftEmail.dil.tsx
+./ElectionInfo.dil.tsx
+./ElectionResults.dil.tsx
+./ElectionResultsWidget.dil.tsx
+./EmailPreview.dil.tsx
+./Entity.dil.tsx
+./EntityCard.dil.tsx
+./EntityExplorer.dil.tsx
+./EntityOverviewCarouselWidget.dil.tsx
+./EntityOverviewWidget.dil.tsx
+./EntityReviewStart.dil.tsx
+./EntityReviewSubmit.dil.tsx
+./EntityReviews.dil.tsx
+./EntityReviewsRefWidget.dil.tsx
+./EntityReviewsWidget.dil.tsx
+./EntityThumbnailList.dil.tsx
+./EplScheduleWidget.dil.tsx
+./EplScheduleWidgetWithSource.dil.tsx
+./EplStandingsWidget.dil.tsx
+./EplStandingsWidgetWithSource.dil.tsx
+./EventSidebarWidget.dil.tsx
+./ExampleServerActionButton.dil.tsx
+./F1RacesWidget.dil.tsx
+./F1RacesWidgetWithSource.dil.tsx
+./F1StandingsWidget.dil.tsx
+./F1StandingsWidgetWithSource.dil.tsx
+./FileCite.dil.tsx
+./FileNavList.dil.tsx
+./FinanceOnboardingSuggestions.dil.tsx
+./FlightCard.dil.tsx
+./FlightCarousel.dil.tsx
+./FlightResults.dil.tsx
+./FlightSearchForm.dil.tsx
+./FlightTracker.dil.tsx
+./FlightTrackerWidget.dil.tsx
+./FollowUp.dil.tsx
+./FollowUpActionBar.dil.tsx
+./FollowUpCardGroup.dil.tsx
+./FollowUpChoiceCard.dil.tsx
+./FollowUpLinkList.dil.tsx
+./FollowUpPillGroup.dil.tsx
+./FollowUpQuiz.dil.tsx
+./GenImage.dil.tsx
+./HomeworkHelperV2.dil.tsx
+./ImageGenWidget.dil.tsx
+./ImageGrid.dil.tsx
+./InstantSuggestionsWidget.dil.tsx
+./InternalPartnerAppWidget.dil.tsx
+./IplScheduleWidget.dil.tsx
+./IplScheduleWidgetWithSource.dil.tsx
+./IplStandingsWidget.dil.tsx
+./IplStandingsWidgetWithSource.dil.tsx
+./JobsWidget.dil.tsx
+./LearningAudioLabelCard.dil.tsx
+./LearningFillBlankCard.dil.tsx
+./LearningImageChoiceCard.dil.tsx
+./LearningImageLabelCard.dil.tsx
+./LearningSentenceBuilderCard.dil.tsx
+./LearningSpeakCard.dil.tsx
+./LearningVizDil.dil.tsx
+./LearningVocabCard.dil.tsx
+./LearningVoiceModeLauncherCard.dil.tsx
+./LedgerAccountBreakdownWidget.dil.tsx
+./LedgerAccountsWidget.dil.tsx
+./LedgerCreditScoreDetail.dil.tsx
+./LedgerCreditScoreDetailWidget.dil.tsx
+./LedgerCreditScoreWidget.dil.tsx
+./LedgerEquityUpdatesWidget.dil.tsx
+./LedgerFeeInterestPaidWidget.dil.tsx
+./LedgerFinanceOnboardingWidget.dil.tsx
+./LedgerFinanceStatusBannerWidget.dil.tsx
+./LedgerIncomeTrackerWidget.dil.tsx
+./LedgerLowConfidenceCategoryCorrection.dil.tsx
+./LedgerLowConfidenceCategoryCorrectionCombinedWidget.dil.tsx
+./LedgerLowConfidenceCategoryCorrectionLegacyWidget.dil.tsx
+./LedgerNetWorthWidget.dil.tsx
+./LedgerPortfolioDistributionWidget.dil.tsx
+./LedgerRecentTransactionsUpcomingActivityWidget.dil.tsx
+./LedgerRecentTransactionsWidget.dil.tsx
+./LedgerRecurringTransactionsWidget.dil.tsx
+./LedgerRepairBankConnectionWidget.dil.tsx
+./LedgerSpendByCategoryDetail.dil.tsx
+./LedgerSpendByCategoryDetailWidget.dil.tsx
+./LedgerSpendByCategoryRecentTransactions.dil.tsx
+./LedgerSpendByCategoryRecentTransactionsWidget.dil.tsx
+./LedgerSpendByCategoryWidget.dil.tsx
+./LedgerSpendSoFarThisMonthWidget.dil.tsx
+./LedgerTransactionDetail.dil.tsx
+./LedgerTransactionDetailWidget.dil.tsx
+./LedgerUpcomingActivityRecentTransactions.dil.tsx
+./LedgerUpcomingActivityWidget.dil.tsx
+./LedgerWatchlistWidget.dil.tsx
+./Link.dil.tsx
+./LinkCard.dil.tsx
+./ListAutomations.dil.tsx
+./ListAutomationsWidget.dil.tsx
+./LocalBusinessWidget.dil.tsx
+./LyricsWidget.dil.tsx
+./LyricsWidgetWithSource.dil.tsx
+./MarchMadness.dil.tsx
+./MediaFallback.dil.tsx
+./MemoryCite.dil.tsx
+./MessageReaction.dil.tsx
+./MlbScheduleWidget.dil.tsx
+./MlbScheduleWidgetWithSource.dil.tsx
+./MlbStandingsWidget.dil.tsx
+./MlbStandingsWidgetWithSource.dil.tsx
+./MultipleChoiceBlockV2.dil.tsx
+./NbaGameBoxscoreWidget.dil.tsx
+./NbaGameBoxscoreWidgetWithNbaGameBoxScoreSource.dil.tsx
+./NbaPlayerSummaryWidget.dil.tsx
+./NbaPlayerSummaryWidgetWithSource.dil.tsx
+./NbaScheduleWidget.dil.tsx
+./NbaScheduleWidgetWithSource.dil.tsx
+./NbaScores.dil.tsx
+./NbaScoresWidget.dil.tsx
+./NbaStandingsWidget.dil.tsx
+./NbaStandingsWidgetWithSource.dil.tsx
+./NcaambScheduleWidget.dil.tsx
+./NcaambScheduleWidgetWithSource.dil.tsx
+./NcaambStandingsWidget.dil.tsx
+./NcaambStandingsWidgetWithSource.dil.tsx
+./NcaawbScheduleWidget.dil.tsx
+./NcaawbScheduleWidgetWithSource.dil.tsx
+./NcaawbStandingsWidget.dil.tsx
+./NcaawbStandingsWidgetWithSource.dil.tsx
+./NewsArticleWidget.dil.tsx
+./NewsArticleWidgetCarousel.dil.tsx
+./NewsCarousel.dil.tsx
+./NflGames.dil.tsx
+./NflGamesWidget.dil.tsx
+./NflScheduleWidget.dil.tsx
+./NflScheduleWidgetWithSource.dil.tsx
+./NflStandingsWidget.dil.tsx
+./NflStandingsWidgetWithSource.dil.tsx
+./NhlScheduleWidget.dil.tsx
+./NhlScheduleWidgetWithSource.dil.tsx
+./NhlStandingsWidget.dil.tsx
+./NhlStandingsWidgetWithSource.dil.tsx
+./OfferScheduledPrompt.dil.tsx
+./OfferSiteSchedule.dil.tsx
+./OfferVoiceConversation.dil.tsx
+./OnboardingFeatureCard.dil.tsx
+./OnboardingPluginSuggestions.dil.tsx
+./OnboardingSelectionCard.dil.tsx
+./OnboardingStarterTasks.dil.tsx
+./OnboardingText.dil.tsx
+./OpenDetailWidget.dil.tsx
+./OpenaiWidget.dil.tsx
+./PackageTracker.dil.tsx
+./PackageTrackerWidget.dil.tsx
+./PersonBento.dil.tsx
+./PersonBentoAlwaysTrigger.dil.tsx
+./PersonWidget.dil.tsx
+./PersonWidgetAlwaysTrigger.dil.tsx
+./PersonalityQuizWidget.dil.tsx
+./PlacesMetadataBar.dil.tsx
+./PluginFollowup.dil.tsx
+./PlusOnboardingSuggestions.dil.tsx
+./ProductCard.dil.tsx
+./ProductCarousel.dil.tsx
+./ProductImage.dil.tsx
+./PromptChecklist.dil.tsx
+./PulseDraftEmail.dil.tsx
+./PulseExpansionCard.dil.tsx
+./PushDripSeriesIntro.dil.tsx
+./Rating.dil.tsx
+./RecommendationCard.dil.tsx
+./RecommendationLinkCard.dil.tsx
+./Reddit.dil.tsx
+./RedditFromProductSearch.dil.tsx
+./RedditFromSearch.dil.tsx
+./ReservationTimePillsRefCarouselWidget.dil.tsx
+./ReservationTimePillsRefWidget.dil.tsx
+./RestaurantAvailabilityWidget.dil.tsx
+./RestaurantMenuRefWidget.dil.tsx
+./RestaurantMenuWidget.dil.tsx
+./RestaurantReviews.dil.tsx
+./SharedActivityPlanner.dil.tsx
+./SidebarFactTable.dil.tsx
+./SidebarPeopleAlsoAsk.dil.tsx
+./SoccerGames.dil.tsx
+./SoccerGamesWidget.dil.tsx
+./SpeechSynthesizer.dil.tsx
+./StockChart.dil.tsx
+./StockComparisonChart.dil.tsx
+./StockHeatmap.dil.tsx
+./StockHeatmapWidget.dil.tsx
+./StockQuoteComparisonWidget.dil.tsx
+./StockQuoteWidget.dil.tsx
+./StopPushDripSeries.dil.tsx
+./SuggestAutomation.dil.tsx
+./SuperbowlRiddleWidget.dil.tsx
+./TabGroup.dil.tsx
+./TabbedSectionWidget.dil.tsx
+./TaskAutopauseCard.dil.tsx
+./TaskExpansionCard.dil.tsx
+./TennisPlayerSummaryWidget.dil.tsx
+./TennisPlayerSummaryWidgetWithSource.dil.tsx
+./UnitConverterV2Widget.dil.tsx
+./UnitConverterWidget.dil.tsx
+./VisualCardCarouselWidget.dil.tsx
+./WeatherSidebarTitleWidget.dil.tsx
+./WeatherSidebarTitleWidgetWithSource.dil.tsx
+./WeatherWidget.dil.tsx
+./WeatherWidgetV3.dil.tsx
+./WeatherWidgetV3WithSource.dil.tsx
+./WeatherWidgetWithSource.dil.tsx
+./WebLinksCarousel.dil.tsx
+./WhatsNewCapabilitySearch.dil.tsx
+./WhatsNewCapabilityWelcome.dil.tsx
+./WnbaScheduleWidget.dil.tsx
+./WnbaScheduleWidgetWithSource.dil.tsx
+./WnbaStandingsWidget.dil.tsx
+./WnbaStandingsWidgetWithSource.dil.tsx
+./WordCardWidget.dil.tsx
+./canonical-dil-snapshot-B4JFWeNe.js
+./flashcards/LearningFlashcards.dil.tsx
+./flashcards/OpenLearningFlashcards.dil.tsx
+./flashcards/UpdateLearningFlashcards.dil.tsx
+./quizzes/LearningQuiz.dil.tsx
+:is([data-d-component=
+:u&&n.enableFluidStreamingAnimationColor?
+;
+			const source = /* @__PURE__ */ __dil.jsx(
+;
+		const [imageState, setImageState] = DIL.useState({
+			key: 
+;
+		const score = (side, inline) => state.has_started ? /* @__PURE__ */ __dil.jsx(
+;
+		if (state.is_loading) return /* @__PURE__ */ __dil.jsx(
+;
+		return /* @__PURE__ */ __dil.jsx(
+;
+	function LedgerCreditScoreWidget(props) {
+		const result = useResolvedComponentResult(
+ArtistUpcomingEventsWidget
+BusinessGalleryRefWidget
+BusinessGalleryWidget
+CalculatorAbcd2ScoreForTransientIschemicAttackWidget
+CalculatorApacheIiScoreWidget
+CalculatorApgarScoreWidget
+CalculatorAsaPhysicalStatusClassificationWidget
+CalculatorBilitoolWidget
+CalculatorBisapScoreForPancreatitisWidget
+CalculatorBishopScoreForCervicalRipeningWidget
+CalculatorCanadianCtHeadRuleWidget
+CalculatorCha2ds2VascScoreForAtrialFibrillationStrokeRiskWidget
+CalculatorChildPughScoreForCirrhosisWidget
+CalculatorCorrectedAdjustedAgeOfPretermInfantsWidget
+CalculatorCurb65ScoreForPneumoniaWidget
+CalculatorDukeTreadmillScoreWidget
+CalculatorFourTScoreForHeparinInducedThrombocytopeniaWidget
+CalculatorGlasgowBlatchfordScoreForUpperGiBleedingWidget
+CalculatorGlasgowComaScaleGcsWidget
+CalculatorGraceScoreForAcuteCoronarySyndromeWidget
+CalculatorHasBledScoreForMajorBleedingRiskWidget
+CalculatorHeartScoreForMajorCardiacEventsWidget
+CalculatorHuntAndHessScoreForSubarachnoidHemorrhageWidget
+CalculatorIchScoreWidget
+CalculatorIsthDicScoreWidget
+CalculatorModifiedRankinScaleWidget
+CalculatorNexusCervicalSpineRuleWidget
+CalculatorNihStrokeScaleNihssWidget
+CalculatorOttawaAnkleRuleWidget
+CalculatorOttawaKneeRuleWidget
+CalculatorPaduaPredictionScoreForVenousThromboembolismRiskWidget
+CalculatorPecarnPediatricHeadInjuryRuleWidget
+CalculatorPediatricEarlyWarningScorePewsWidget
+CalculatorPercRuleForPulmonaryEmbolismWidget
+CalculatorPneumoniaSeverityIndexPsiPortWidget
+CalculatorQsofaScoreWidget
+CalculatorRansonCriteriaForPancreatitisWidget
+CalculatorRevisedCardiacRiskIndexRcriWidget
+CalculatorRevisedGenevaScoreForPulmonaryEmbolismWidget
+CalculatorRochesterCriteriaForFebrileInfantsWidget
+CalculatorRockallScoreForUpperGiBleedingWidget
+CalculatorRoxIndexForHighFlowNasalCannulaWidget
+CalculatorSirsCriteriaWidget
+CalculatorSofaScoreWidget
+CalculatorStopBangScoreForObstructiveSleepApneaWidget
+CalculatorSurgicalApgarScoreWidget
+CalculatorTimiRiskWidget
+CalculatorWellsScoreForDeepVeinThrombosisWidget
+CalculatorWellsScoreForPulmonaryEmbolismWidget
+CalculatorWestleyCroupSeverityScoreWidget
+CalculatorYearsAlgorithmForPulmonaryEmbolismWidget
+CalendarEventsWidget
+CareProviderResultsWidget
+CareProviderSidebarWidget
+ChecklistWidget
+ClockWidget
+CopyWordsWidget
+CurrencyConverterV2WidgetWithSource
+CurrencyConverterWidgetWithSource
+DigitalStopwatchWidget
+DigitalTimerWidget
+EntityOverviewWidget
+EntityReviewsRefWidget
+EntityReviewsWidget
+EplScheduleWidgetWithSource
+EplStandingsWidgetWithSource
+EventSidebarWidget
+F1RacesWidgetWithSource
+F1StandingsWidgetWithSource
+ImageGenWidget
+InstantSuggestionsWidget
+InternalPartnerAppWidget
+IplScheduleWidgetWithSource
+IplStandingsWidgetWithSource
+LearningVizDil
+LedgerAccountBreakdownWidget
+LedgerAccountsWidget
+LedgerEquityUpdatesWidget
+LedgerFeeInterestPaidWidget
+LedgerFinanceOnboardingWidget
+LedgerFinanceStatusBannerWidget
+LedgerIncomeTrackerWidget
+LedgerLowConfidenceCategoryCorrectionLegacyWidget
+LedgerNetWorthWidget
+LedgerPortfolioDistributionWidget
+LedgerRecentTransactionsWidget
+LedgerRecurringTransactionsWidget
+LedgerRepairBankConnectionWidget
+LedgerSpendByCategoryWidget
+LedgerSpendSoFarThisMonthWidget
+LedgerUpcomingActivityWidget
+LedgerWatchlistWidget
+LocalBusinessWidget
+LyricsWidgetWithSource
+MlbScheduleWidgetWithSource
+MlbStandingsWidgetWithSource
+NbaGameBoxscoreWidgetWithNbaGameBoxScoreSource
+NbaScheduleWidgetWithSource
+NbaStandingsWidgetWithSource
+NcaambScheduleWidgetWithSource
+NcaambStandingsWidgetWithSource
+NcaawbScheduleWidgetWithSource
+NcaawbStandingsWidgetWithSource
+NewsArticleWidget
+NewsArticleWidgetCarousel
+NflScheduleWidgetWithSource
+NflStandingsWidgetWithSource
+NhlScheduleWidgetWithSource
+NhlStandingsWidgetWithSource
+OpenDetailWidget
+OpenaiWidget
+PersonWidget
+PersonWidgetAlwaysTrigger
+PersonalityQuizWidget
+ReservationTimePillsRefCarouselWidget
+ReservationTimePillsRefWidget
+RestaurantAvailabilityWidget
+RestaurantMenuRefWidget
+RestaurantMenuWidget
+SuperbowlRiddleWidget
+TabbedSectionWidget
+UnitConverterV2Widget
+UnitConverterWidget
+Unknown DIL React component <${e}>
+VisualCardCarouselWidget
+WeatherSidebarTitleWidgetWithSource
+WeatherWidgetV3WithSource
+WeatherWidgetWithSource
+WnbaScheduleWidgetWithSource
+WnbaStandingsWidgetWithSource
+WordCardWidget
+[data-d-component=
+[data-d-stream-inline]
+[data-d-stream-word]
+[data-d-text-decoration], [data-d-highlight], [data-d-component=
+] : []
+		].map((key) => /* @__PURE__ */ __dil.jsx(
+]))), /* @__PURE__ */ __dil.jsx(
+])), /* @__PURE__ */ __dil.jsx(
+]),
+			onChange: (value) => changeAmount(side, value)
+		})) : /* @__PURE__ */ __dil.jsx(
+]), /* @__PURE__ */ __dil.jsx(
+], [data-d-component=
+].map((side, index) => /* @__PURE__ */ __dil.jsx(
+_fv0XaG_DilRenderer
+_fv0XaG_DilResponseRoot
+business_gallery_widget_shown
+care_provider_results_widget
+care_provider_sidebar_widget
+chatgpt_widget_action
+component_unavailable
+credit_score_widget
+data-d-stream-inline
+data-d-stream-pending
+data-d-stream-word
+data-d-streaming-height
+data-d-streaming-reveal
+data-d-streaming-table-motion
+dil
+dil-client-state
+dil-renderer
+dil:state
+dil_v2
+dilation
+entity_reviews_widget_shown
+entity_thumbnail_list_widget_shown
+homework_helper_v2_widget
+image_gen_follow_up_dil_buttons
+instant_suggestions_widget
+instant_suggestions_widget_clicked
+instant_suggestions_widget_shown
+jobs_widget
+jobs_widget_apply_clicked
+launch_ecosystem_widget
+ledger-widget-no-accounts
+link_card_widget_clicked
+news_article_widget
+news_article_widget_carousel
+news_article_widget_carousel_item_clicked
+news_article_widget_clicked
+offer_voice_conversation_widget
+presentation
+reservation_time_pills_widget_shown
+restaurant_menu_widget_shown
+sidebar_fact_table_widget_shown
+suggest_automation_widget_clicked
+var(--d-stream-accent)
+widget
+
+## assistant-canonical-dil-CpAW2wP2.js bytes 27885
+SNAKE
+chatgpt_widget_action
+open_image_lightbox
+request_user_input
+widget_action_target
+widget_action_value
+widget_affordance
+ATTR
+data-assistant-entity-metadata-trigger
+data-assistant-entity-trigger
+data-assistant-product-trigger
+data-canonical-dil-chart-hydration-lock
+data-canonical-dil-hydrated
+data-canonical-dil-hydrating
+data-canonical-dil-payload
+data-canonical-dil-root
+data-d-component
+data-disabled
+data-loaded
+data-message-role
+data-native-selectcontrol
+data-share-message
+data-w-component
+data-w-disabled
+data-web-mobile-conversation
+PHRASE
+!=typeof p)return;let g=I(p);if(!g)return;let h=g.presentation.identity,b=f,w=e(g),S=
+${le.presentation.messageId??
+./assistant-canonical-dil-v2-D3Mxms_M.js
+./canonical-dil-entity-actions-BlLzSglt.js
+./canonical-dil-snapshot-B4JFWeNe.js
+./canonical-dil-user-input-router-DnxhXXCX.js
+./native-dil-location-state-DsaJIvrQ.js
+===o.dataset.canonicalDilSsrViewportWidth?390:
+Widget text could not be copied
+[data-canonical-dil-root]
+[data-w-component=
+button[data-w-component=
+canonical-dil-trusted-sandbox-interaction
+chatgpt_widget_action
+content_reference_type
+data-canonical-dil-chart-hydration-lock
+data-canonical-dil-hydrated
+data-canonical-dil-hydrating
+in n?n.id:void 0,sharedPresentationSourceId:i&&
+location-action:${i.presentation.identity}
+script[data-canonical-dil-payload][type=
+widget_action_target
+widget_action_value
+widget_affordance
+
+## assistant-canonical-dil-weather-CWxamg2B.js bytes 155757
+SNAKE
+QZcSVW_Button
+QZcSVW_ButtonInner
+QZcSVW_ButtonLoader
+a8a_SearchInput
+aY6ahG_Card
+chatgpt_widget_action
+gvjAwW_ContainedImageClip
+gvjAwW_Image
+gvjAwW_ImageBox
+jOXtkW_Chart
+jOXtkW_ChartScrollable
+jOXtkW_ChartTooltip
+oVf2pG_Table
+oVf2pG_TableContainer
+request_user_input
+widget_action_target
+widget_action_value
+widget_affordance
+ATTR
+data-bar-group-hover
+data-block
+data-canonical-dil-chart-hydration-lock
+data-canonical-dil-hydrated
+data-canonical-dil-hydrating
+data-canonical-dil-payload
+data-canonical-dil-root
+data-canonical-dil-styles
+data-color
+data-d-component
+data-disable-pressable
+data-disabled
+data-disabled-tone
+data-entering
+data-entering-active
+data-exiting
+data-exiting-active
+data-gutter-size
+data-highlight
+data-icon-size
+data-interrupted
+data-invalid
+data-loaded
+data-loading
+data-message-role
+data-native-selectcontrol
+data-no-autosize
+data-only-child
+data-optically-align
+data-option-indicator-position
+data-pill
+data-selected
+data-share-message
+data-size
+data-state
+data-text-only
+data-theme
+data-uniform
+data-variant
+data-w-clamp-lines
+data-w-color
+data-w-column-size
+data-w-column-sizing
+data-w-component
+data-w-container
+data-w-direction
+data-w-disabled
+data-w-flush
+data-w-font-style
+data-w-has-width
+data-w-hidden
+data-w-hover-text-color
+data-w-hover-underline
+data-w-hover-zoom
+data-w-image-load-failed
+data-w-image-load-recovery-pending
+data-w-inline
+data-w-interactive
+data-w-responsive-ssr
+data-w-select-icon-placeholder
+data-w-selectable
+data-w-selected
+data-w-shadow
+data-w-size
+data-w-tabular-nums
+data-w-text-align
+data-w-truncate
+data-w-variant
+data-w-weight
+data-web-mobile-conversation
+data-y-axis
+PHRASE
+!=typeof o)return;let i=Z(o);if(!i)return;let l=i.presentation.identity,c=r,s=_(i),d=
+,__isWidget:Q=!1}=t,R=t.block??
+./canonical-dil-user-input-router-DnxhXXCX.js
+===t.dataset.canonicalDilSsrViewportWidth?390:
+Select components must be wrapped in <Select />
+Widget text could not be copied
+[data-canonical-dil-root]
+[data-w-component=
+button[data-w-component=
+canonical-dil-stream-revision
+chatgpt_widget_action
+content_reference_type
+data-canonical-dil-chart-hydration-lock
+data-canonical-dil-hydrated
+data-canonical-dil-hydrating
+data-w-component
+dil
+presentation
+script[data-canonical-dil-payload][type=
+style[data-canonical-dil-styles=
+widget_action_target
+widget_action_value
+widget_affordance
+
+## assistant-dil-BMpJOeu-.js bytes 22480
+SNAKE
+ATTR
+data-assistant-dil-bracket
+data-assistant-dil-calculator
+data-assistant-dil-clock
+data-assistant-dil-clock-hand
+data-assistant-dil-clock-time
+data-assistant-dil-cricket
+data-assistant-dil-currency
+data-assistant-dil-currency-input
+data-assistant-dil-league-standings
+data-assistant-dil-location
+data-assistant-dil-schedule
+data-assistant-dil-schedule-game
+data-assistant-dil-schedule-toggle
+data-assistant-dil-stock
+data-assistant-dil-weather
+data-assistant-dil-weather-chart
+data-assistant-dil-weather-chart-scroller
+data-assistant-dil-weather-current
+data-assistant-dil-weather-description
+data-assistant-dil-weather-header
+data-bracket-match-index
+data-bracket-round
+data-bracket-round-panel
+data-bracket-toggle
+data-calculator-action
+data-calculator-controls
+data-calculator-expression
+data-calculator-function
+data-calculator-scientific
+data-calculator-value
+data-collapsed-label
+data-cricket-panel
+data-cricket-score-side
+data-cricket-score-side-panel
+data-cricket-tab
+data-expanded-label
+data-location-action
+data-location-actions
+data-location-suggestion
+data-location-suggestions
+data-message-role
+data-partial-island
+data-standings-conference
+data-standings-conference-panel
+data-stock-chart
+data-stock-price
+data-stock-price-status
+data-stock-range
+data-temperature-c
+data-weather-chart-label
+data-weather-chart-series
+data-weather-date
+data-weather-focus
+data-weather-hourly-panel
+data-weather-hourly-value
+data-weather-hourly-value-heading
+data-weather-unit
+data-web-mobile-conversation
+PHRASE
+--dil-clock-angle
+./native-dil-location-state-DsaJIvrQ.js
+[data-assistant-dil-bracket]
+[data-assistant-dil-calculator]
+[data-assistant-dil-clock-hand=
+[data-assistant-dil-clock-time]
+[data-assistant-dil-clock]
+[data-assistant-dil-cricket]
+[data-assistant-dil-currency-input=
+[data-assistant-dil-currency]
+[data-assistant-dil-league-standings]
+[data-assistant-dil-location]
+[data-assistant-dil-schedule-game]
+[data-assistant-dil-schedule-toggle]
+[data-assistant-dil-schedule]
+[data-assistant-dil-stock]
+[data-assistant-dil-weather]
+dil
+
+## canonical-dil-snapshot-B4JFWeNe.js bytes 264753
+SNAKE
+AvcNW_Bitmaps
+CANONICAL_DIL_V2_COMPONENTS
+Dcnuva_Table
+Dcnuva_TableFrame
+GrXo5G_Image
+W_Button
+XY506a_Card
+chart_legend
+lZMUJq_card
+oJea_Chart
+oJea_ChartScrollable
+oJea_ChartTooltip
+qtbl0q_Image
+qtbl0q_LoadingImage
+qtbl0q_image
+value_input
+vjYB8W_Code
+ATTR
+data-canonical-dil-styles
+data-celebration-confetti
+data-celebration-piece
+data-chat-theme
+data-d-align
+data-d-aspect-mode
+data-d-auto-spacing
+data-d-bar-group-hover
+data-d-block
+data-d-break-long-token
+data-d-clamp-lines
+data-d-click-through
+data-d-clip
+data-d-column-sizing
+data-d-compact
+data-d-component
+data-d-connector
+data-d-container
+data-d-custom-spacing
+data-d-default-strong
+data-d-direction
+data-d-disabled
+data-d-dismissing
+data-d-dividers
+data-d-dragging
+data-d-flex-in-row
+data-d-flipped
+data-d-flipping
+data-d-flush
+data-d-font-style
+data-d-frame
+data-d-has-border
+data-d-has-height
+data-d-has-width
+data-d-hidden
+data-d-highlight
+data-d-host-hover
+data-d-hover-zoom
+data-d-hoverable
+data-d-image-crop
+data-d-image-fallback
+data-d-image-loading
+data-d-inline
+data-d-inline-text
+data-d-justify
+data-d-layout
+data-d-list-item-content
+data-d-marker
+data-d-marker-layout
+data-d-marker-size
+data-d-max-marker-size
+data-d-min-lines
+data-d-mobile
+data-d-progressive-full
+data-d-progressive-settled
+data-d-reduced-motion
+data-d-restoring
+data-d-rich-marker-lane
+data-d-rich-marker-size
+data-d-row-divider
+data-d-scrollable
+data-d-scrollable-has-inline-padding
+data-d-selected
+data-d-shadow
+data-d-shuffling
+data-d-size
+data-d-snap
+data-d-snap-align
+data-d-stack-depth
+data-d-sticky-header
+data-d-stream-chart-reveal
+data-d-stream-media
+data-d-stream-word
+data-d-svg-reveal
+data-d-swipe-direction
+data-d-tabular-nums
+data-d-text-align
+data-d-text-decoration
+data-d-text-flow
+data-d-truncate
+data-d-valign
+data-d-variant
+data-d-weight
+data-d-whitespace
+data-d-wrap
+data-d-y-axis
+data-disabled
+data-loaded
+data-orientation
+data-size
+data-slider-rendered-marker-count
+data-slider-step-marker
+data-slider-style
+data-state
+data-theme
+data-variant
+PHRASE
+,component:
+./canonical-dil-markdown-images-QAbWJ1Z9.js
+Canonical DIL attempted to preload an unapproved external resource
+DIL HTML view
+DIL command failed
+DIL flashcard-flip requires question and answer children.
+DIL html-view is not ready
+DIL html-view was unmounted
+MapWidget
+MapWidgetV3
+Unknown DILMessenger command 
+data-d-component
+data-d-stream-chart-reveal
+data-d-stream-media
+data-d-stream-word
+data:image/svg+xml;charset=utf-8,${encodeURIComponent(e)}
+dil-
+dil-html-view
+dilEventCompletion
+dilEventHandler
+no DIL interaction action failure
+presentation
+
+## canonical-dil-entity-actions-BlLzSglt.js bytes 7053
+SNAKE
+error_code
+ATTR
+data-message-role
+data-web-mobile-conversation
+PHRASE
+./native-content-reference-sheet-loader-DWqXn3Y6.js
+text/event-stream
+
+## canonical-dil-user-input-router-DnxhXXCX.js bytes 810
+SNAKE
+ATTR
+PHRASE
+./canonical-dil-user-input-action-DDZHjalI.js
+./canonical-dil-user-input-analytics-BSorEJtj.js
+
+## native-dil-location-state-DsaJIvrQ.js bytes 3948
+SNAKE
+ATTR
+PHRASE
+dil-location
+
+## visualization-DlZtHdm0.js bytes 5359
+SNAKE
+ATTR
+PHRASE
+
+## visualization-rRdWabDI.js bytes 6210
+SNAKE
+ATTR
+PHRASE
+,componentLabel:
+
+## registry-BhKJEzU7.js bytes 37295
+SNAKE
+client_defined_widget
+currency_converter
+model_dil_v2
+stock_quote
+weather_widget
+ATTR
+data-assistant-followup-cta-presentation
+data-assistant-learning-block-trigger
+data-canonical-dil-host
+data-canonical-dil-hydrated
+data-canonical-dil-hydrating
+data-canonical-dil-payload
+data-canonical-dil-post-stream-activation
+data-canonical-dil-root
+data-conversation-part
+data-disabled
+data-low-data-load
+data-message-role
+data-message-streaming
+data-native-selectcontrol
+data-partial-island
+data-retry-pulse-preserved-content
+data-share-preview-local
+data-shared-block-action
+data-w-component
+data-web-mobile-conversation
+PHRASE
+)&&/^currency_converter(?:_v2)?_widget(?:_with_source)?$/.test(r.dataset.dilWidgetName??
+),a=i?.dataset.messageId||i?.id||e.dataset.canonicalDilMessageId,o=e.querySelector(
+),n=e.dataset.canonicalDilMessageId??t?.id;if(t&&n&&!t.hasAttribute(
+./assistant-canonical-dil-CpAW2wP2.js
+./assistant-canonical-dil-weather-CWxamg2B.js
+./assistant-dil-BMpJOeu-.js
+/${encodeURIComponent(e.conversationId)}
+:scope > script[data-canonical-dil-payload][type=
+[data-canonical-dil-host]
+[data-canonical-dil-post-stream-activation]
+[data-canonical-dil-root]
+[data-w-component=
+assistant-canonical-dil
+assistant-canonical-dil-weather
+assistant-dil
+canonical-dil-stream-revision
+canonical-dil:
+client_defined_widget
+data-assistant-followup-cta-presentation
+data-canonical-dil-hydrated
+data-canonical-dil-hydrating
+data-canonical-dil-post-stream-activation
+dil
+in d&&d.modelDilV2!=null||
+in d&&typeof d.widgetRefId!=
+in d)||!d.widgetRefId)&&(!(
+in d)||d.name!==e.dataset.dilWidgetName||
+lazy.assistant-canonical-dil
+modelDilV2
+model_dil_v2
+presentation
+weather_widget
+widgetRefId
+widgetState

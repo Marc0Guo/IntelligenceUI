@@ -1,0 +1,1 @@
+var e=new Set,r=r=>(e.add(r),()=>e.delete(r)),t=(r,t)=>{for(let a of[...e].reverse()){let e=a(r);if(e&&(!t||e.map_message_id===t))return e}};export{r as n,t};

@@ -1,0 +1,1 @@
+var e=new WeakMap,t=(t,n)=>(e.set(t,n),()=>{e.get(t)===n&&e.delete(t)}),n=(t,n)=>e.get(t)?.(n)===!0;export{n,t};

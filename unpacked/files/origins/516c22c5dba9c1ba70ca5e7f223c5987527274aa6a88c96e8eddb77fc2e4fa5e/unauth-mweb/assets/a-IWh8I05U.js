@@ -1,0 +1,1 @@
+import{Gr as r,en as a,fr as s,mr as e,nr as t,rr as o}from"./octane-shell-shared-BoZRL7hg.js";import{t as i}from"./a-BvcOPf_d.js";var n=n=>{if(r(n.sessionId),t())return;let c=s();i(c);let p=n.auth?.isAuthenticated;a(p,n.sessionChangeCompleted),o(e(c,n.entryContext,window.location.href,p,{...n,privacy:n.privacy&&"consent"in n.privacy?n.privacy:void 0}),p,c)};export{n as t};

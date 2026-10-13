@@ -1,0 +1,459 @@
+
+## jobs_widget @ 1691693
+	width: isDesktop ? "fit-content" : "100%",
+			padding: {
+				x: 3,
+				y: isDesktop ? 2 : 2.5
+			},
+			radius: "full",
+			onClick: () => GenUI.dispatchAction({
+				type: "open_url",
+				handler: "client",
+				payload: {
+					url: state.apply_url_with_tracking,
+					event_name: "jobs_widget_apply_clicked",
+					statsig_event_name: "jobs_widget_apply_clicked",
+					event_data: {
+						widget_name: "jobs_widget",
+						provider: state.source
+					}
+				}
+			})
+		}, /* @__PURE__ */ __dil.jsx("text", {
+			color: "gray-0",
+			maxLines: 1,
+			size: "sm",
+			weight: "medium",
+			textAlign: "center"
+		}, labels[state.source] ?? "Apply")));
+		return /* @__PURE__ */ __dil.jsx("card", {
+			background: "surface-elevated",
+			gap: 0,
+			onVisible: () => GenUI.dispatchAction({
+				type: "log_event",
+			
+
+## jobs_widget @ 1691747
+: {
+				x: 3,
+				y: isDesktop ? 2 : 2.5
+			},
+			radius: "full",
+			onClick: () => GenUI.dispatchAction({
+				type: "open_url",
+				handler: "client",
+				payload: {
+					url: state.apply_url_with_tracking,
+					event_name: "jobs_widget_apply_clicked",
+					statsig_event_name: "jobs_widget_apply_clicked",
+					event_data: {
+						widget_name: "jobs_widget",
+						provider: state.source
+					}
+				}
+			})
+		}, /* @__PURE__ */ __dil.jsx("text", {
+			color: "gray-0",
+			maxLines: 1,
+			size: "sm",
+			weight: "medium",
+			textAlign: "center"
+		}, labels[state.source] ?? "Apply")));
+		return /* @__PURE__ */ __dil.jsx("card", {
+			background: "surface-elevated",
+			gap: 0,
+			onVisible: () => GenUI.dispatchAction({
+				type: "log_event",
+				handler: "client",
+				payload: {
+					event_name: "j
+
+## news_article_widget @ 2483323
+@__PURE__ */ __dil.jsx(LinkImpression, { url: state.url }, /* @__PURE__ */ __dil.jsx("pressable", {
+			ariaLabel: \`Open \${state.title}\`,
+			onClick: () => GenUI.dispatchAction({
+				type: "open_url",
+				handler: "client",
+				payload: {
+					url: state.url,
+					event_name: "news_article_widget_clicked",
+					event_data: {
+						widget_name: "news_article_widget",
+						ref: state.ref,
+						url: state.url,
+						domain: state.domain
+					}
+				}
+			})
+		}, /* @__PURE__ */ __dil.jsx("card", {
+			size: "sm",
+			padding: 4,
+			gap: 4,
+			shadow: true
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			width: "100%",
+			minWidth: 0,
+			align: "start",
+			gap: 3
+		}, /* @__PURE__ */ __dil.jsx("col", {
+			flex: 1,
+			minWidth: 0,
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			width: "100%",
+		
+
+## news_article_widget @ 2483392
+__ */ __dil.jsx("pressable", {
+			ariaLabel: \`Open \${state.title}\`,
+			onClick: () => GenUI.dispatchAction({
+				type: "open_url",
+				handler: "client",
+				payload: {
+					url: state.url,
+					event_name: "news_article_widget_clicked",
+					event_data: {
+						widget_name: "news_article_widget",
+						ref: state.ref,
+						url: state.url,
+						domain: state.domain
+					}
+				}
+			})
+		}, /* @__PURE__ */ __dil.jsx("card", {
+			size: "sm",
+			padding: 4,
+			gap: 4,
+			shadow: true
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			width: "100%",
+			minWidth: 0,
+			align: "start",
+			gap: 3
+		}, /* @__PURE__ */ __dil.jsx("col", {
+			flex: 1,
+			minWidth: 0,
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			width: "100%",
+			minWidth: 0,
+			align: "center",
+			gap: 2
+		}, /* @__PURE__ */ __di
+
+## homework_helper_v2 @ 1619591
+			radius: "none",
+			background: selectedValue === option.value ? "surface-secondary" : "transparent",
+			ariaLabel: option.label,
+			disabled: submissionLocked,
+			onClick: () => {
+				if (submissionLocked) return;
+				GenUI.dispatchAction({
+					handler: "server",
+					type: "homework_helper_v2_selection",
+					payload: { selected_value: option.value }
+				});
+				setSelectedValue(option.value);
+			}
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			minHeight: 56,
+			align: "center",
+			gap: 3,
+			padding: { x: 5 }
+		}, /* @__PURE__ */ __dil.jsx("box", {
+			size: 24,
+			align: "center",
+			justify: "center"
+		}, /* @__PURE__ */ __dil.jsx("box", {
+			size: 20,
+			radius: "full",
+			align: "center",
+			justify: "center",
+			background: selectedValue === option.value ? "surface-inverted" : "surfa
+
+## homework_helper_v2 @ 1621418
+ed_submission || selectedValue === "voice") setSubmitted(true);
+				const event_data = {
+					widget_affordance: "OPTION",
+					widget_action_target: "learning_mode_submit",
+					widget_action_value: selectedValue,
+					surface_location: "RESPONSE",
+					content_reference_type: "homework_helper_v2"
+				};
+				if (selectedValue === "voice") GenUI.dispatchAction({
+					type: "start_voice_mode",
+					handler: "client",
+					payload: {
+						component_key: componentKey,
+						event_source: "homework_helper_v2_widget",
+						event_name: "chatgpt_widget_action",
+						event_data
+					}
+				});
+				else GenUI.issueNewTurn(selectedOption.label, {
+					append_to_current_leaf: true,
+					followup_metadata: { homework_helper_v2_choice: selectedValue },
+					event_name: "chatgpt_widget_action",
+					e
+
+## calculator_glasgow @ 404560
+l : /* @__PURE__ */ __dil.jsx("loading-block", {
+			width: "100%",
+			height: 320
+		});
+		return /* @__PURE__ */ __dil.jsx(ResolvedClinicalScorecard, {
+			key: JSON.stringify(state),
+			state,
+			score,
+			isFieldVisible
+		});
+	}
+
+//#endregion
+//#region internal/clinical-scorers/calculator_glasgow_blatchford_score_for_upper_gi_bleeding.dil.ts
+	const scoreClinical = (values) => {
+		if (values.bun === "" || values.hemoglobin === "" || values.sbp === "" || values.pulse === "") return {
+			displayScore: "-",
+			band: "Incomplete",
+			detail: "Enter sex, BUN, hemoglobin, systolic blood pressure, and pulse to finish the GBS.",
+			color: "secondary"
+		};
+		const bun = Number(values.bun);
+		const hgb = Number(values.hemoglobin);
+		const sbp = Number(values.sbp);
+		const score = Math.trunc((bun >= 
+
+## calculator_glasgow @ 417918
+l : /* @__PURE__ */ __dil.jsx("loading-block", {
+			width: "100%",
+			height: 320
+		});
+		return /* @__PURE__ */ __dil.jsx(ResolvedClinicalScorecard, {
+			key: JSON.stringify(state),
+			state,
+			score,
+			isFieldVisible
+		});
+	}
+
+//#endregion
+//#region internal/clinical-scorers/calculator_glasgow_coma_scale_gcs.dil.ts
+	const scoreClinical = (values) => {
+		const score = [
+			"eye",
+			"verbal",
+			"motor"
+		].reduce((total, key) => total + Number(values[key]), 0);
+		return {
+			displayScore: String(score),
+			band: score >= 13 ? "Mild brain injury range" : score >= 9 ? "Moderate brain injury range" : "Severe brain injury range",
+			detail: score >= 13 ? "GCS 13-15: mild impairment range." : score >= 9 ? "GCS 9-12: moderate impairment range." : "GCS 3-8: severe impairment range, often prom
+
+## reservation_widget @ 3416867
+__dil.jsx("box", {
+			role: "status",
+			padding: { y: 4 }
+		}, /* @__PURE__ */ __dil.jsx("loading-block", {
+			width: "100%",
+			height: 48
+		})), /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, state.tabs.map((item) => {
+			const venue = item.venue;
+			const reservation = item.reservation_widget?.initialState;
+			const action = venue?.url ? {
+				handler: "client",
+				type: "open_url",
+				payload: {
+					url: venue.url,
+					require_safe_url_confirmation: true
+				}
+			} : {
+				handler: "client",
+				type: "issue_new_turn",
+				payload: {
+					query: item.prompt,
+					append_to_current_leaf: true
+				}
+			};
+			return /* @__PURE__ */ __dil.jsx("animate", {
+				key: item.id,
+				preventInitialTransition: !state.animate_reveal,
+				initial: {
+					opacity: 0,
+					translateY: 4
+				},
+	
+
+## reservation_widget @ 3420363
+URE__ */ __dil.jsx("icon", {
+				name: "map-pin",
+				size: "lg",
+				color: "secondary"
+			}))), item.native_map && /* @__PURE__ */ __dil.jsx("text", {
+				size: "sm",
+				color: "secondary"
+			}, state.native_map_unavailable_label ?? "Map preview isn’t available here."), !item.reservation_widget && !item.enrichment_pending && /* @__PURE__ */ __dil.jsx("row", null, /* @__PURE__ */ __dil.jsx(LinkImpression, {
+				action,
+				inline: true,
+				disabled: !can(action.type)
+			}, /* @__PURE__ */ __dil.jsx("button", {
+				color: "primary",
+				variant: "solid",
+				size: "md",
+				pill: true,
+				disabled: !can(action.type),
+				onClick: () => GenUI.dispatchAction(action)
+			}, item.cta_label))), reservation && /* @__PURE__ */ __dil.jsx(ReservationTimePillsRefWidget, {
+				ref: venue.business_r
+
+## credit_score_widget @ 1931722
+ ? item.key : null;
+		const logFactorEngagement = (action) => {
+			if (!factorKey) return;
+			GenUI.dispatchAction({
+				handler: "client",
+				type: "log_event",
+				payload: {
+					event_name: "chatgpt_finance_credit_engagement",
+					event_data: {
+						action,
+						source: "credit_score_widget",
+						destination: factorKey
+					}
+				}
+			});
+		};
+		const recordView = () => {
+			if (viewed.current) return;
+			viewed.current = true;
+			logFactorEngagement("viewed");
+		};
+		return /* @__PURE__ */ __dil.jsx("box", {
+			width: "100%",
+			onVisible: factorKey ? recordView : void 0
+		}, /* @__PURE__ */ __dil.jsx("pressable", {
+			variant: "ghost",
+			hoverBackground: "surface-tertiary",
+			width: "100%",
+			padding: 0,
+			radius: "md",
+			ariaLabel: item.label,
+			onClick: () => {
+				reco
+
+## entity_reviews @ 1369411
+ate.cards.length === 0) return null;
+		return /* @__PURE__ */ __dil.jsx("box", {
+			width: "100%",
+			...GenUI.logEvent ? {
+				onVisibleWhen: !hasLoggedImpression.current,
+				onVisible: () => {
+					hasLoggedImpression.current = true;
+					GenUI.logEvent?.({
+						event_name: "entity_reviews_widget_shown",
+						statsig_event_name: "entity_reviews_widget_shown",
+						event_data: { widget_name: "entity_reviews" }
+					});
+				}
+			} : {}
+		}, /* @__PURE__ */ __dil.jsx("carousel", {
+			gap: 2,
+			showArrows: !isMobile
+		}, state.cards.map((card) => /* @__PURE__ */ __dil.jsx("carousel-item", {
+			key: card.id,
+			variant: "outline",
+			width: card.kind === "summary" ? 128 : 220,
+			minWidth: card.kind === "summary" ? 128 : 220,
+			height: 128,
+			radius: "2xl",
+			padding: 0
+		}, /* @__PUR
+
+## entity_reviews @ 1369468
+_ */ __dil.jsx("box", {
+			width: "100%",
+			...GenUI.logEvent ? {
+				onVisibleWhen: !hasLoggedImpression.current,
+				onVisible: () => {
+					hasLoggedImpression.current = true;
+					GenUI.logEvent?.({
+						event_name: "entity_reviews_widget_shown",
+						statsig_event_name: "entity_reviews_widget_shown",
+						event_data: { widget_name: "entity_reviews" }
+					});
+				}
+			} : {}
+		}, /* @__PURE__ */ __dil.jsx("carousel", {
+			gap: 2,
+			showArrows: !isMobile
+		}, state.cards.map((card) => /* @__PURE__ */ __dil.jsx("carousel-item", {
+			key: card.id,
+			variant: "outline",
+			width: card.kind === "summary" ? 128 : 220,
+			minWidth: card.kind === "summary" ? 128 : 220,
+			height: 128,
+			radius: "2xl",
+			padding: 0
+		}, /* @__PURE__ */ __dil.jsx(EntityActionSurface, {
+			action: card.u
+
+## care_provider @ 68515
+${careOrigin[2]}\` : destination;
+				shownUrls.current = [...shownUrls.current, destination];
+				GenUI.dispatchAction({
+					handler: "client",
+					type: "log_event",
+					payload: {
+						event_name: "genui_link_shown",
+						event_data: {
+							url: telemetryUrl,
+							is_care_provider_link: careProvider,
+							link_type: linkType?.toLowerCase() ?? "general_external"
+						}
+					}
+				});
+			}
+		}, children);
+	}
+
+//#endregion
+//#region shared.dil.ts
+	function useResolvedComponentResult(componentName, props) {
+		const opGenui = DIL.useAppData((appData) => appData.opGenui);
+		if (props.__state !== void 0) return {
+			status: "resolved",
+			resolutionComplete: true,
+			state: props.__state
+		};
+		const key = componentDataKey(componentName, props);
+		const result = (typeof props.__res
+
+## care_provider @ 87139
+${careOrigin[2]}\` : destination;
+				shownUrls.current = [...shownUrls.current, destination];
+				GenUI.dispatchAction({
+					handler: "client",
+					type: "log_event",
+					payload: {
+						event_name: "genui_link_shown",
+						event_data: {
+							url: telemetryUrl,
+							is_care_provider_link: careProvider,
+							link_type: linkType?.toLowerCase() ?? "general_external"
+						}
+					}
+				});
+			}
+		}, children);
+	}
+
+//#endregion
+//#region shared.dil.ts
+	function useResolvedComponentResult(componentName, props) {
+		const opGenui = DIL.useAppData((appData) => appData.opGenui);
+		if (props.__state !== void 0) return {
+			status: "resolved",
+			resolutionComplete: true,
+			state: props.__state
+		};
+		const key = componentDataKey(componentName, props);
+		const result = (typeof props.__res

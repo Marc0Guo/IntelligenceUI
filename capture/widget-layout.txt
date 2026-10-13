@@ -1,0 +1,181 @@
+
+## jobs card fields MISSING
+
+## news title row @ 2483472
+	payload: {
+					url: state.url,
+					event_name: "news_article_widget_clicked",
+					event_data: {
+						widget_name: "news_article_widget",
+						ref: state.ref,
+						url: state.url,
+						domain: state.domain
+					}
+				}
+			})
+		}, /* @__PURE__ */ __dil.jsx("card", {
+			size: "sm",
+			padding: 4,
+			gap: 4,
+			shadow: true
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			width: "100%",
+			minWidth: 0,
+			align: "start",
+			gap: 3
+		}, /* @__PURE__ */ __dil.jsx("col", {
+			flex: 1,
+			minWidth: 0,
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			width: "100%",
+			minWidth: 0,
+			align: "center",
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx("favicon", {
+			url: state.url,
+			size: 20
+		}), /* @__PURE__ */ __dil.jsx("text", {
+			size: "sm",
+			color: "secondary",
+			truncate: true,
+			maxLines: 1
+		}, state.source_label)), /* @__PURE__ */ __dil.jsx("title", {
+			size: "md",
+			maxLines: 3
+		}, state.title)), state.thumbnail_url && /* @__PURE__ */ __dil.jsx("image", {
+			src: state.thumbnail_url,
+			alt: state.title,
+			width: 100,
+			height: 100,
+			radius: "lg",
+			fit: "cover",
+			hideOnFailure: true
+		})), state.snippet && /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, /* @__PURE__ */ __dil.jsx("divider", null), /* @__PURE__ */ __dil.jsx("col", {
+			width: "100%",
+			gap: 1
+		}, state.date_label && /* @__PURE__ */ __dil.jsx("text", {
+			size: "sm",
+			color: "tertiary"
+		}, state.date_label), /* @__PURE__ */ __dil.jsx("text", {
+			size: "md",
+			color: "prose",
+			maxLines: 4
+		}, state.snippet))))));
+	}
+
+//#endregion
+return NewsArticleWidget;
+})();
+return __dilDefaultExport;
+})()`,"./NewsArticleWidgetCarousel.dil.tsx":`(() => {
+var __dilDefaultExport = (function() {
+
+
+//#region internal/LinkImpression.dil.tsx
+/** Observe the rendered link without invoking its click act
+
+## clinical scorecard MISSING
+
+## gcs fields @ 417918
+calculator_glasgow_coma_scale_gcs.dil.ts
+	const scoreClinical = (values) => {
+		const score = [
+			"eye",
+			"verbal",
+			"motor"
+		].reduce((total, key) => total + Number(values[key]), 0);
+		return {
+			displayScore: String(score),
+			band: score >= 13 ? "Mild brain injury range" : score >= 9 ? "Moderate brain injury range" : "Severe brain injury range",
+			detail: score >= 13 ? "GCS 13-15: mild impairment range." : score >= 9 ? "GCS 9-12: moderate impairment range." : "GCS 3-8: severe impairment range, often prompting airway and critical-care considerations.",
+			color: score >= 13 ? "success" : score >= 9 ? "warning" : "danger"
+		};
+	};
+
+//#endregion
+//#region CalculatorGlasgowComaScaleGcsWidget.dil.tsx
+	function CalculatorGlasgowComaScaleGcsWidget(props) {
+		return /* @__PURE__ */ __dil.jsx(ClinicalScorecard, {
+			componentName: "CalculatorGlasgowComaScaleGcsWidget",
+			widgetProps: props,
+			score: scoreClinical
+		});
+	}
+
+//#endregion
+return CalculatorGlasgowComaScaleGcsWidget;
+})();
+return __dilDefaultExport;
+})()`,"./CalculatorGraceScoreForAcuteCoronarySyndromeWidget.dil.tsx":`(() => {
+var __dilDefaultExport = (function() {
+
+
+//#region shared.dil.ts
+	function useResolvedComponentResult(componentName, props) {
+		const opGenui = DIL.useAppData((appData) => appData.opGenui);
+		if (props.__state !== void 0) return {
+			status: "resolved",
+			resolutionComplete: true,
+			state: props.__state
+		};
+		const key = componentDataKey(componentName, props);
+		const result = (typeof props.__resolutionId === "string" ? opGenui?.componentResults?.[props.__resolutionId] : void 0) ?? opGenui?.componentResults?.[key];
+		if (isComponentResultEnvelope(result)) {
+			if (result.status === "pending") return {
+				status: "pending",
+				resolutionComplete: false,
+				state: void 0
+			};
+
+
+## news carousel @ 2490869
+news_article_widget_carousel_item_clicked",
+					event_data: {
+						widget_name: "news_article_widget_carousel",
+						ref: item.ref,
+						url: item.url,
+						domain: item.domain
+					}
+				}
+			})
+		}, /* @__PURE__ */ __dil.jsx("card", {
+			width: "100%",
+			size: "sm",
+			padding: 4,
+			gap: 4,
+			shadow: true
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			width: "100%",
+			minWidth: 0,
+			align: "start",
+			gap: 3
+		}, /* @__PURE__ */ __dil.jsx("col", {
+			flex: 1,
+			minWidth: 0,
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx("row", {
+			width: "100%",
+			minWidth: 0,
+			align: "center",
+			gap: 2
+		}, /* @__PURE__ */ __dil.jsx("favicon", {
+			url: item.url,
+			size: 20
+		}), /* @__PURE__ */ __dil.jsx("text", {
+			size: "sm",
+			color: "secondary",
+			truncate: true,
+			maxLines: 1
+		}, item.source_label)), /* @__PURE__ */ __dil.jsx("title", {
+			size: "md",
+			maxLines: 3
+		}, item.title)), item.thumbnail_url && /* @__PURE__ */ __dil.jsx("image", {
+			src: item.thumbnail_url,
+			alt: item.title,
+			width: 100,
+			height: 100,
+			radius: "lg",
+			fit: "cover",
+			hideOnFailure: true
+		})), item.snippet && /* @__PURE__ */ __dil.jsx(__dil.Fragment, null, /* @__PURE__ */ __dil.jsx("divid

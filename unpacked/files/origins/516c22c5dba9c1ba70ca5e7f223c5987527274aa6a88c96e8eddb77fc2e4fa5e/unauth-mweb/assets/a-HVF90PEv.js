@@ -1,0 +1,1 @@
+var e=`[data-message-role="assistant"]`,t=`${e} > section > :is(aside, div[role="complementary"])[aria-label]`,n=e=>e?.querySelector(`:scope > section`)??null,r=t=>n(t.closest(e))?.contains(t)??!1,i=t=>Array.from(t.querySelectorAll(e)).flatMap(e=>{let t=n(e);return t?[t]:[]});export{r as i,n,i as r,t};

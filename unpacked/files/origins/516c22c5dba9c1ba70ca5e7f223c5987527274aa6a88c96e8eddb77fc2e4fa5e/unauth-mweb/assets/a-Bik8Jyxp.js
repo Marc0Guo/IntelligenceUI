@@ -1,0 +1,1 @@
+import{hs as e}from"./octane-shell-shared-BoZRL7hg.js";var t=(t,r)=>{let i=t._octaneSidebarNavigation;if(i)return i(r);let o=location.href,a=!0,n=()=>a&&t.isConnected&&location.href===o;return{isCurrent:n,cancel:async()=>{a=!1},commit:()=>{if(n()&&null==history.state?.__lightweightWebSidebar)return a=!1,e(t.ownerDocument)?.onSidebarNavigationCommit?.(),"pushState"}}};export{t};

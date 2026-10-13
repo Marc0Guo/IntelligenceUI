@@ -1,0 +1,1 @@
+var e=new WeakMap,t=(t,n)=>(e.set(t,n),()=>{e.get(t)===n&&e.delete(t)}),n=t=>{let n=e.get(t);e.delete(t);try{let e=n?.();return e==null?void 0:()=>{try{e()}catch{}}}catch{}};export{n,t};

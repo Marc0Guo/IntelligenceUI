@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-DOd5ywYy.js";import{i as t}from"./a-DU-l_c3Y.js";import{mt as n}from"./a-CEYli6pc.js";var r=e(t());function i(e){return(0,r.createElement)(n,{name:`chevron-down-md`,...e})}export{i as t};

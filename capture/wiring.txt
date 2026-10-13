@@ -1,0 +1,269 @@
+REGISTRY model_dil_v2
+ull||`contentReferences`in d&&Array.isArray(d.contentReferences)&&d.contentReferences.some(e=>e&&typeof e==`object`&&`type`in e&&e.type===`client_defined_widget`)||`widgetState`in d&&d.widgetState&&typeof d.widgetState==`object`&&`presentation`in d.widgetState&&d.widgetState.presentation!==`chart`||!(`dil`in d)||`metadata`in d&&d.metadata&&typeof d.metadata==`object`&&(`modelDilV2`in d.metadata||`model_dil_v2`in d.metadata))}catch{return!1}},Pe=(e,t,r)=>{let i=e.closest(`[data-message-role="assistant"]`),a=i?.dataset.messageId||i?.id||e.dataset.canonicalDilMessageId,o=e.querySelector(`:scope > script[data-canonical-dil-payload][type="application/json"]`);if(!e.isConnected||!B.has(e)||q.get(e)?.continuity.isLive()===!1||!i||!a||i.dataset.messageId&&i.id&&i.dataset.messageId!==i.id||e.dataset.canonicalDilMessageId&&e.dataset.canonicalDilMessageId!==a||!e.dataset.partialIslandRef||!e.dataset.partialIslandRevision||!o?.textContent||!Number.isSafeInteger(r)||r<=0||(G.get(e)?.generation??0)>=r||!n(e))return!1;try{let n=JSON.parse(o.textContent);return typeof n==`string`&&(G.set(e,{assistant:i,committedEncodedReference:n,committedRevision:e.dataset.partialIslandRevision,consumed:!1,encodedReference:t.encodedReference,generation:r,messageId:a,ref:e.dataset.partialIslandRef,revision:t.rev
+
+
+REGISTRY assistant-dil
+al`,()=>s(()=>import(__wvi(`./static-assistant-reveal-gDscVtI4.js`)),__vite__mapDeps([30,3,2,4,5,6,7,8,9,10,11]),import.meta.url))},"assistant-dil":{load:()=>o(`assistant-dil`,()=>s(()=>import(__wvi(`./assistant-dil-BMpJOeu-.js`)),[],import.meta.url)),statefulContinuity:!0},"assistant-canonical-dil":{load:ke,loadMode:`interaction`,statefulContinuity:!0},"assistant-ads":{load:()=>o(`assistant-ads`,()=>s(()=>import(__wvi(`./assistant-ads-u0kYquag.js`)).then(e=>e.t),__vite__mapDeps([31,2,3,4,5,6,7,8,9,10,11,32,33,34,35,24,25,36,20,19,37,38,39,40,41,42,43,1,44,17,18,21]),import.meta.url))},"assistant-ads-analytics":{capture:f,load:()=>o(`assistant-ads-analytics`,()=>s(()=>import(__wvi(`./assista
+
+
+DIL ENTRY STRINGS
+worker_version
+./octane-shell-shared-BoZRL7hg.js
+./a-BTKqdIWA.js
+./a-BqZ9oYHx.js
+./a-C_HCyXbH.js
+./a-Ba4U5rAK.js
+./registry-BhKJEzU7.js
+--dil-clock-angle
+[data-assistant-dil-clock]
+[data-assistant-dil-currency]
+[data-assistant-dil-weather]
+[data-assistant-dil-schedule]
+[data-assistant-dil-league-standings]
+[data-assistant-dil-bracket]
+[data-assistant-dil-stock]
+[data-assistant-dil-cricket]
+[data-assistant-dil-calculator]
+[data-assistant-dil-location]
+dil
+[data-partial-island=
+changed
+function
+[data-assistant-dil-clock-time]
+[data-assistant-dil-clock-hand=
+),l=e.querySelector(
+minute
+),u=e.querySelector(
+second
+24h
+12h
+${r}deg
+abort
+[data-assistant-dil-currency-input=
+),o=e.querySelector(
+input
+[data-weather-date]
+precip
+temp
+current
+,useCurrent:i.dataset.weatherUseCurrent===
+},r),s=i.querySelector(
+),c=new Map;try{let e=JSON.parse(s?.dataset.weatherChartDayOffsets??
+);if(e&&typeof e==
+)for(let[t,n]of Object.entries(e))typeof n==
+[data-temperature-c]
+?t.dataset.temperatureC??
+:t.dataset.temperatureF??
+;for(let t of i.querySelectorAll(
+))t.setAttribute(
+,String(t.dataset.weatherUnit===e.unit));for(let t of i.querySelectorAll(
+,String(t.dataset.weatherFocus===e.focus));for(let t of i.querySelectorAll(
+,String(t.dataset.weatherDate===e.focusDate));for(let t of i.querySelectorAll(
+))t.hidden=t.dataset.weatherHourlyPanel!==e.focusDate;let t=i.querySelector(
+),n=
+hidden
+)}if(t&&n){let r=i.querySelector(
+${CSS.escape(n)}
+)?.dataset.weatherChartSummary;t.setAttribute(
+,r?
+${n} for ${e.focusDate}
+smooth
+[data-weather-hourly-value-heading]
+[data-weather-focus=
+)?.textContent?.trim()??
+:i.querySelector(
+))t.textContent=e.focus===
+?t.dataset.precipitation??
+:e.unit===
+;let r=i.querySelector(
+${CSS.escape(e.focusDate)}
+),a=i.querySelector(
+),u=i.querySelector(
+),d=i.querySelector(
+);if(r&&a&&!e.useCurrent){a.textContent=e.unit===
+?r.dataset.weatherHeadingC??
+:r.dataset.weatherHeadingF??
+,u&&(u.textContent=r.dataset.weatherDescription??
+);let t=r.dataset.weatherIconSrc;d&&t&&(d.src=t)}else a&&(a.textContent=e.unit===
+?a.dataset.temperatureC??
+:a.dataset.temperatureF??
+,u&&(u.textContent=i.dataset.weatherCurrentDescription??
+button[data-weather-unit]
+click
+||t===
+)&&v(o,{unit:t})},{signal:n});for(let e of i.querySelectorAll(
+))e.addEventListener(
+true
+button[data-weather-focus]
+[data-assistant-dil-schedule-toggle]
+[data-assistant-dil-schedule-game]
+aria-expanded
+[data-collapsed-label]
+[data-expanded-label]
+[data-standings-conference]
+aria-selected
+[data-standings-conference-panel]
+[data-bracket-round]
+[data-bracket-round-panel]
+[data-bracket-match-index]
+[data-bracket-toggle]
+[data-stock-range]
+[data-stock-chart]
+[data-stock-range=
+),n=i.querySelector(
+),r=i.querySelector(
+),a=E(i.querySelector(
+${CSS.escape(e.activeRange)}
+));t&&n&&r&&(n.textContent=e.hoverIndex==null?t.dataset.stockPrice??
+:D(a[e.hoverIndex],t.dataset.stockPrice??
+),r.textContent=e.hoverIndex==null?t.dataset.stockPriceStatus??
+${e.activeRange} chart point ${e.hoverIndex+1} of ${a.length}
+pointermove
+pointerleave
+keydown
+ArrowLeft
+ArrowRight
+).split(
+).map(Number).filter(Number.isFinite),D=(e,t)=>{if(e===void 0)return
+primary
+away
+[data-cricket-tab]
+[data-cricket-panel]
+[data-cricket-score-side]
+aria-pressed
+[data-cricket-score-side-panel]
+scorecard
+timeline
+run_rate
+[data-calculator-expression]
+input[data-calculator-value]
+[data-calculator-controls]
+[data-calculator-scientific]
+degrees
+radians
+,inverseMode:i.dataset.calculatorInverseMode===
+,justEvaluated:!!a.textContent?.trim(),showControls:i.dataset.calculatorShowControls!==
+,showScientificControls:i.dataset.calculatorShowScientificControls===
+,value:o.value.trim()||
+[data-calculator-action=
+)?.setAttribute(
+,String(e.showControls));let t=i.querySelector(
+angle
+);t&&(t.textContent=e.angleMode===
+Rad
+Deg
+,String(e.inverseMode)),i.querySelector(
+scientific
+,String(e.showScientificControls));for(let t of i.querySelectorAll(
+)){let n=t.dataset.calculatorFunction;t.textContent=e.inverseMode&&n===
+sin⁻¹
+cos
+cos⁻¹
+tan
+tan⁻¹
+sqrt
+:n===
+&&e.inverseMode?
+?e.inverseMode?
+:n??
+}let n=i.querySelector(
+exponent
+);n&&(n.textContent=e.inverseMode?
+)},d=R(l,u);o.addEventListener(
+,()=>{let e=P(o.value);e!==void 0&&v(l,{expression:e||
+,justEvaluated:!1,value:e||
+})},{signal:n});for(let e of i.querySelectorAll(
+,()=>{let t=l(),n=e.dataset.calculatorAction;if(n===
+){v(l,e=>({showControls:!e.showControls}));return}if(n===
+){v(l,e=>({showScientificControls:!e.showScientificControls}));return}if(n===
+){v(l,e=>e.angleMode===
+?{angleMode:
+}:{angleMode:
+});return}if(n===
+){v(l,e=>({inverseMode:!e.inverseMode}));return}if(n===
+){let e=j(t,t.inverseMode?
+);v(l,{expression:e,justEvaluated:!1,value:e});return}if(n===
+){let e=t.justEvaluated?
+:t.expression.slice(0,-1)||
+;v(l,{expression:e,justEvaluated:!1,value:e});return}if(n===
+Error
+sin
+asin(
+acos(
+atan(
+log
+10^
+:r===
+root(
+power
+${r}(
+[data-location-actions]
+[data-location-suggestions]
+./native-dil-location-state-DsaJIvrQ.js
+[data-location-action=
+)?.addEventListener(
+,()=>v(f,{fallback:!0}),{signal:i}),c.querySelector(
+dismiss
+[data-web-mobile-conversation]
+[data-message-role=
+Content-Type
+application/json
+POST
+Could not dismiss location request
+[data-location-suggestion]
+web-mobile-submit-assistant-followup
+standard
+;if(e.justEvaluated){if(t===
+${t.toLocaleString(
+,{maximumSignificantDigits:21,useGrouping:!1})}E
+)&&e.value!==
+${e.value}${t}
+&&!n&&t!==
+?t:
+},M=e=>{let t=Array.from(e).reduce((e,t)=>e+(t===
+?1:t===
+?-1:0),0);return t>0?
+.repeat(t)}
+asin
+acos
+atan
+).replaceAll(
+),P=e=>{let t=e.replaceAll(
+Non-finite calculator result
+Invalid calculator expression
+number
+${i[1]}${i[2]??
+}):i[3]?t.push({kind:
+,value:i[3]}):i[4]&&t.push({kind:
+Unexpected calculator token
+:return Math.log(t);case
+:return t**(1/(n??2));default:throw Error(
+)}},l=()=>{if(i(
+)){a(
+);let e=p();return a(
+),e}let e=a();if(e.kind===
+)return Number(e.value);if(e.kind===
+){if(e.value===
+)return Math.PI;if(e.value===
+)return Math.E;a(
+);let t=p(),n=i(
+)?(a(
+),p()):void 0;return a(
+),c(e.value,t,n)}throw Error(
+)};function u(){return i(
+),u()):i(
+),-u()):d()}function d(){let e=l();return i(
+),e**u()):e}let f=()=>{let e=u();for(;i(
+)||i(
+);){let t=a().value,n=u();e=t===
+?e*n:e/n}return e},p=()=>{let e=f();for(;i(
+);){let t=a().value,n=f();e=t===
+?e+n:e-n}return e},m=p();if(r!==n.length)throw Error(
+deg
+);return n===
+${String(e).padStart(2,
+)}:${r}
+${e%12||12}:${r} ${e>=12?
+},G={clockAngle:e=>[{
+:e==null?e:
+,$$css:!0},{

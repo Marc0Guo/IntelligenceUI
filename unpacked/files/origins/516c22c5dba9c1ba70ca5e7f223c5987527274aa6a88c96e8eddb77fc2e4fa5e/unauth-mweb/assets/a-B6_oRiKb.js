@@ -1,0 +1,1 @@
+import{Qt as e}from"./octane-signals-engine-CtPRJ0LT.js";import{J as t}from"./a-DOjrgaiH.js";e(1);var n=t(`g:22b6406d`,[]),r=t(`g:f6e80411`,0),i=(e,t,i)=>{let a=r.get()+1;r.set(a),n.set([...n.get(),{id:a,message:e,dismissLabel:t,errorPresentation:i}])};export{n,i as t};

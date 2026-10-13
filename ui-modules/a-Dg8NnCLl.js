@@ -1,0 +1,1 @@
+var e=e=>e===`TRIG_COMPONENT_X`||e===`TRIG_COMPONENT_Y`;export{e as t};

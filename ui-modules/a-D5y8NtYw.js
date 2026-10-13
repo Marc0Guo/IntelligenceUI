@@ -1,0 +1,1 @@
+var e=async e=>{let t=e.body?.getReader();if(!t)throw Error(`History unavailable`);let n=new TextDecoder,r=``;try{for(;;){let e=await t.read();if(e.done)break;r+=n.decode(e.value,{stream:!0})}return r+n.decode()}finally{t.releaseLock()}};export{e as t};

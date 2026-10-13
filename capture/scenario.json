@@ -1,0 +1,45 @@
+{
+  "browser": {
+    "mode": "launch",
+    "executable_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "headless": true
+  },
+  "start_url": {
+    "url": "https://chatgpt.com/",
+    "query": []
+  },
+  "environment": {
+    "viewport": { "width": 1280, "height": 720, "device_scale_factor": 1 },
+    "locale": "en-US",
+    "timezone": "UTC",
+    "color_scheme": "light",
+    "reduced_motion": "reduce",
+    "service_workers": "block"
+  },
+  "actions": [
+    {
+      "step_id": "open-chatgpt",
+      "action": "goto",
+      "destination": { "url": "https://chatgpt.com/", "query": [] },
+      "wait_until": "load",
+      "timeout_ms": 60000
+    },
+    {
+      "step_id": "settle",
+      "action": "wait_for_timeout",
+      "duration_ms": 5000
+    }
+  ],
+  "storage": { "cookies": [], "local_storage": [], "session_storage": [] },
+  "secrets": [],
+  "capture": {
+    "after_each_step": [],
+    "at_end": ["url", "dom", "accessibility"],
+    "events": ["network", "frames", "workers", "console", "page-errors"],
+    "network": {
+      "request_body": false,
+      "response_body": true,
+      "header_values": false
+    }
+  }
+}

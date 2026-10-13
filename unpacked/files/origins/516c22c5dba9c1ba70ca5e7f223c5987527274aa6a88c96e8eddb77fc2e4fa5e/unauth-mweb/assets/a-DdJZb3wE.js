@@ -1,0 +1,1 @@
+var e={_t:`never`,_d:()=>!0};function t(){return e}export{t};

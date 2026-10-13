@@ -1,0 +1,115 @@
+
+## application-presentation-runtime-iQN4rl4D.js strings 12 bytes 53665
+Application document was discarded during presentation loading
+<div data-content-reference-parent-delivery-error=
+ data-content-reference-delivery-error=
+content-reference-sheets
+./content-reference-sheets-CTqOTxOj.js
+ApplicationPresentationDeliveryError
+application-presentation
+Presentation host belongs to another document
+A page component cannot replace an application frame
+Notification presentation requires a document signal owner
+Application presentation owner has retired
+Conversation transcript retired during hydration
+
+## application-frame-runtime-modules-CT-Rezk6.js strings 24 bytes 380537
+./application-presentation-runtime-iQN4rl4D.js
+).map(e=>e.trim()).filter(e=>e.startsWith(t));return n.length>1?
+||e.initial.defaultHome&&e.presentation.getSnapshot().phase===
+presentation
+initial-conversation-presentation
+ data-w-component=
+data-w-component
+,P),r.h=Y(!e.visible||e.presentationReady===!1,r.h,r.c,
+,t,1,r,()=>je([(e.presentation$?.get()??e.presentation).phase!==
+,(e.initial.defaultHome||e.frameView.homePresentation===
+)&&e.presentation.phase!==
+,(e.frameView.homePresentation===
+||e.initial.centeredHome)&&e.presentation.phase!==
+||e.initial.compactHomeLayoutEligible)&&e.presentation.phase!==
+,e.frameView.initialAutoSend===!0&&e.presentation.phase!==
+,e.presentation.phase===
+,e.initial.homepageMaxxingLanding&&e.frameView.homePresentation!==
+&&e.presentation.phase!==
+,e.initial.imagesLanding&&e.frameView.homePresentation!==
+||e.initial.imageDiscoveryLanding&&e.frameView.homePresentation!==
+,e.frameView.promptLanding&&e.frameView.homePresentation!==
+,e.frameView.staticLanding&&e.frameView.homePresentation!==
+source-presentations
+presentation-gate
+
+## declarative-partial-updates-CmXu-Wzw.js strings 30 bytes 49198
+[data-assistant-content-reference] [data-assistant-dil-weather], section[data-assistant-content-reference][data-partial-island=
+][data-dil-widget-name^=
+[data-assistant-content-reference]
+template[data-assistant-presentation-flush]
+)},et=e=>e.dataset.contentReferenceType===
+||e.dataset.contentReferenceType===
+||e.dataset.dilWidgetName?.startsWith(
+)===!0,tt=e=>e.dataset.contentReferenceType===
+,nt=(e,t,n=performance.now())=>{e.dataset.streamingContentReference=
+;E(e,de,T.streamingContentReferenceDelay(r),r)},rt=e=>{delete e.dataset.streamingContentReference,ge(e,de,T.streamingContentReferenceDelay(
+[data-canonical-dil-root]
+)){if(e.dataset.contentReferenceType===
+data-assistant-content-reference
+)||t.dataset.contentReferenceType===
+[data-streaming-content-reference]
+[data-message-streaming] [data-assistant-content-reference]
+data-streaming-content-reference
+);if(t.dataset.contentReferenceType===
+&&n?.isConnected&&Oe.has(n)&&!je.has(t)){rt(t);continue}let r=t.dataset.contentReferenceType===
+||t.dataset.contentReferenceType===
+),o=r||t.dataset.contentReferenceType===
+||t.dataset.dilWidgetName?.startsWith(
+);if(!a)return[];let o=ht(a);if(!o)return A.presentationStaleTargetCount+=1,[];let s=o.kind===
+web-mobile-partial-update
+?(a.template.remove(),a.template=n,A.presentationCoalescedTemplateCount+=1):j.push({enqueuedAt:performance.now(),kind:
+,targetName:t,template:n}),A.presentationMaxQueueDepth=Math.max(A.presentationMaxQueueDepth,j.length),Q()},nn=e=>e.getAttribute(
+){f.remove(),A.presentationCoalescedTemplateCount+=1;continue}if(!e&&nn(f)){M.push(f),c=!0;continue}let m=f.content.querySelector(
+web-mobile-declarative-partial-update-commit-source-installed
+--stream-content-reference-delay
+--x---stream-content-reference-delay
+
+## application-hydration-capture-DgS9d2BT.js strings 0 bytes 40
+
+## registry-BhKJEzU7.js strings 28 bytes 37295
+./assistant-canonical-dil-CpAW2wP2.js
+assistant-map
+lazy.assistant-map
+./assistant-map-Dk4PppDt.js
+./assistant-dil-BMpJOeu-.js
+assistant-canonical-dil-weather
+./assistant-canonical-dil-weather-CWxamg2B.js
+:scope > script[data-canonical-dil-payload][type=
+in d)||d.name!==e.dataset.dilWidgetName||
+in d&&typeof d.widgetRefId!=
+in d)||!d.widgetRefId)&&(!(
+in d?d.widgetRefId:
+in d&&Array.isArray(d.contentReferences)&&d.contentReferences.some(e=>e&&typeof e==
+client_defined_widget
+widgetState
+presentation
+chart
+model_dil_v2
+/${encodeURIComponent(e.conversationId)}
+[data-canonical-dil-post-stream-activation]
+[data-w-component=
+)&&/^currency_converter(?:_v2)?_widget(?:_with_source)?$/.test(r.dataset.dilWidgetName??
+):null;if(!/^(?:stock(?:_comparison)?_chart|stock_quote(?:_comparison)?_widget)$/.test(r.dataset.dilWidgetName??
+){e.isTrusted&&!r.dataset.dilWidgetName?.startsWith(
+[data-canonical-dil-root]
+data-canonical-dil-hydrated
+data-canonical-dil-hydrating
+)==null)&&window.__webMobilePreHydrationState?.delete(
+MISSING octane-home-client-DPLk-fgP.js
+
+## a-ngqEBZ1g.js strings 1 bytes 164
+canonical-dil-stream-revision
+MISSING octane-shell-shared-BoZRL7hg.js
+
+## early-shared-runtime-BYkNLVmy.js strings 4 bytes 37238
+/uc/${encodeURIComponent(t[0])}
+/${encodeURIComponent(t)}
+)){let t=new Map;for(let n=e.length;n>0;){if(
+Initial conversation presentation has retired
